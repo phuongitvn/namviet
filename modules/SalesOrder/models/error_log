@@ -1,0 +1,7 @@
+[27-Apr-2014 09:55:14] PHP Fatal error:  Class 'Inventory_Record_Model' not found in /home/crm4b519/public_html/modules/SalesOrder/models/Record.php on line 14
+[27-Apr-2014 09:55:14] PHP Fatal error:  Class 'Inventory_Module_Model' not found in /home/crm4b519/public_html/modules/SalesOrder/models/Module.php on line 11
+[27-Apr-2014 09:55:14] PHP Fatal error:  Class 'Inventory_ListView_Model' not found in /home/crm4b519/public_html/modules/SalesOrder/models/ListView.php on line 11
+[27-Apr-2014 09:55:14] PHP Fatal error:  Class 'Inventory_RelationListView_Model' not found in /home/crm4b519/public_html/modules/SalesOrder/models/RelationListView.php on line 11
+[27-Apr-2014 09:55:14] PHP Fatal error:  Class 'Inventory_DetailView_Model' not found in /home/crm4b519/public_html/modules/SalesOrder/models/DetailView.php on line 11
+[27-Apr-2014 09:55:14] PHP Fatal error:  Class 'Inventory_EditRecordStructure_Model' not found in /home/crm4b519/public_html/modules/SalesOrder/models/EditRecordStructure.php on line 14
+[27-Apr-2014 09:55:14] PHP Fatal error:  Class 'Inventory_MassEditRecordStructure_Model' not found in /home/crm4b519/public_html/modules/SalesOrder/models/MassEditRecordStructure.php on line 14

@@ -1,0 +1,2 @@
+[27-Apr-2014 09:55:09] PHP Fatal error:  Class 'Vtiger_View_Controller' not found in /home/crm4b519/public_html/modules/Import/views/Main.php on line 11
+[27-Apr-2014 09:55:09] PHP Fatal error:  Class 'Vtiger_Popup_View' not found in /home/crm4b519/public_html/modules/Import/views/List.php on line 11

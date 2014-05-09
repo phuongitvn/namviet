@@ -1,0 +1,3 @@
+[27-Apr-2014 09:55:23] PHP Fatal error:  Class 'Vtiger_Field_Model' not found in /home/crm4b519/public_html/modules/Settings/Leads/models/Field.php on line 11
+[27-Apr-2014 09:55:23] PHP Fatal error:  Class 'Vtiger_Module_Model' not found in /home/crm4b519/public_html/modules/Settings/Leads/models/Module.php on line 11
+[27-Apr-2014 09:55:23] PHP Fatal error:  Class 'Settings_Vtiger_Module_Model' not found in /home/crm4b519/public_html/modules/Settings/Leads/models/Mapping.php on line 11

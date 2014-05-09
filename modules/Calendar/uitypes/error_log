@@ -1,0 +1,3 @@
+[27-Apr-2014 09:55:13] PHP Fatal error:  Class 'Vtiger_Time_UIType' not found in /home/crm4b519/public_html/modules/Calendar/uitypes/Time.php on line 11
+[27-Apr-2014 09:55:13] PHP Fatal error:  Class 'Vtiger_Datetime_UIType' not found in /home/crm4b519/public_html/modules/Calendar/uitypes/Datetime.php on line 11
+[27-Apr-2014 09:55:13] PHP Fatal error:  Class 'Vtiger_Reference_UIType' not found in /home/crm4b519/public_html/modules/Calendar/uitypes/Multireference.php on line 11

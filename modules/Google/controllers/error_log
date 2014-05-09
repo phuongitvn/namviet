@@ -1,0 +1,2 @@
+[27-Apr-2014 09:55:06] PHP Fatal error:  Call to undefined function vimport() in /home/crm4b519/public_html/modules/Google/controllers/Contacts.php on line 10
+[27-Apr-2014 09:55:06] PHP Fatal error:  Call to undefined function vimport() in /home/crm4b519/public_html/modules/Google/controllers/Calendar.php on line 10

@@ -1,0 +1,4 @@
+[27-Apr-2014 09:55:09] PHP Fatal error:  Class 'Vtiger_Base_Model' not found in /home/crm4b519/public_html/modules/Import/models/Map.php on line 11
+[27-Apr-2014 09:55:09] PHP Fatal error:  Class 'Vtiger_Base_Model' not found in /home/crm4b519/public_html/modules/Import/models/Config.php on line 11
+[27-Apr-2014 09:55:09] PHP Fatal error:  Class 'Vtiger_Module_Model' not found in /home/crm4b519/public_html/modules/Import/models/Module.php on line 12
+[27-Apr-2014 09:55:09] PHP Fatal error:  Class 'Vtiger_ListView_Model' not found in /home/crm4b519/public_html/modules/Import/models/ListView.php on line 14

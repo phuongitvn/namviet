@@ -1,0 +1,2 @@
+[27-Apr-2014 09:55:02] PHP Fatal error:  Class 'Vtiger_Index_View' not found in /home/crm4b519/public_html/modules/Home/views/Index.php on line 11
+[27-Apr-2014 09:55:02] PHP Fatal error:  Class 'Vtiger_DashBoard_View' not found in /home/crm4b519/public_html/modules/Home/views/DashBoard.php on line 11

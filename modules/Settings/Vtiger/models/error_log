@@ -1,0 +1,13 @@
+[27-Apr-2014 09:55:23] PHP Fatal error:  Class 'Vtiger_Base_Model' not found in /home/crm4b519/public_html/modules/Settings/Vtiger/models/Menu.php on line 14
+[27-Apr-2014 09:55:24] PHP Fatal error:  Class 'Vtiger_Base_Model' not found in /home/crm4b519/public_html/modules/Settings/Vtiger/models/ListView.php on line 15
+[27-Apr-2014 09:55:24] PHP Fatal error:  Class 'Vtiger_Base_Model' not found in /home/crm4b519/public_html/modules/Settings/Vtiger/models/Announcement.php on line 12
+[27-Apr-2014 09:55:24] PHP Fatal error:  Class 'Settings_Vtiger_Module_Model' not found in /home/crm4b519/public_html/modules/Settings/Vtiger/models/ConfigModule.php on line 11
+[27-Apr-2014 09:55:24] PHP Fatal error:  Class 'Settings_Vtiger_Module_Model' not found in /home/crm4b519/public_html/modules/Settings/Vtiger/models/CompanyDetails.php on line 11
+[27-Apr-2014 09:55:24] PHP Fatal error:  Class 'Vtiger_Base_Model' not found in /home/crm4b519/public_html/modules/Settings/Vtiger/models/Module.php on line 14
+[27-Apr-2014 09:55:24] PHP Fatal error:  Class 'Vtiger_Base_Model' not found in /home/crm4b519/public_html/modules/Settings/Vtiger/models/Systems.php on line 11
+[27-Apr-2014 09:55:24] PHP Fatal error:  Class 'Vtiger_Base_Model' not found in /home/crm4b519/public_html/modules/Settings/Vtiger/models/Record.php on line 14
+[27-Apr-2014 09:55:24] PHP Fatal error:  Class 'Vtiger_Base_Model' not found in /home/crm4b519/public_html/modules/Settings/Vtiger/models/MenuItem.php on line 14
+[27-Apr-2014 09:55:24] PHP Fatal error:  Class 'Vtiger_Base_Model' not found in /home/crm4b519/public_html/modules/Settings/Vtiger/models/TaxRecord.php on line 11
+[27-Apr-2014 09:55:24] PHP Fatal error:  Class 'Settings_Vtiger_Systems_Model' not found in /home/crm4b519/public_html/modules/Settings/Vtiger/models/OutgoingServer.php on line 11
+[27-Apr-2014 09:55:24] PHP Fatal error:  Class 'Vtiger_Module_Model' not found in /home/crm4b519/public_html/modules/Settings/Vtiger/models/CustomRecordNumberingModule.php on line 11
+[27-Apr-2014 09:55:24] PHP Fatal error:  Class 'Vtiger_Base_Model' not found in /home/crm4b519/public_html/modules/Settings/Vtiger/models/TermsAndConditions.php on line 11

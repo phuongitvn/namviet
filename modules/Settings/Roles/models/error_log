@@ -1,0 +1,2 @@
+[27-Apr-2014 09:55:23] PHP Fatal error:  Class 'Settings_Vtiger_Record_Model' not found in /home/crm4b519/public_html/modules/Settings/Roles/models/Record.php on line 14
+[27-Apr-2014 09:55:23] PHP Fatal error:  Class 'Settings_Vtiger_Module_Model' not found in /home/crm4b519/public_html/modules/Settings/Roles/models/Module.php on line 14

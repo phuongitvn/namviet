@@ -1,0 +1,10 @@
+[27-Apr-2014 09:55:09] PHP Fatal error:  Class 'Vtiger_Edit_View' not found in /home/crm4b519/public_html/modules/Inventory/views/Edit.php on line 11
+[27-Apr-2014 09:55:09] PHP Fatal error:  Class 'Vtiger_List_View' not found in /home/crm4b519/public_html/modules/Inventory/views/List.php on line 11
+[27-Apr-2014 09:55:09] PHP Fatal error:  Class 'Vtiger_Detail_View' not found in /home/crm4b519/public_html/modules/Inventory/views/Detail.php on line 11
+[27-Apr-2014 09:55:09] PHP Fatal error:  Class 'Vtiger_ComposeEmail_View' not found in /home/crm4b519/public_html/modules/Inventory/views/SendEmail.php on line 11
+[27-Apr-2014 09:55:09] PHP Fatal error:  Class 'Vtiger_Popup_View' not found in /home/crm4b519/public_html/modules/Inventory/views/ServicesPopup.php on line 11
+[27-Apr-2014 09:55:09] PHP Fatal error:  Class 'Vtiger_Popup_View' not found in /home/crm4b519/public_html/modules/Inventory/views/ProductsPopup.php on line 11
+[27-Apr-2014 09:55:09] PHP Fatal error:  Class 'Vtiger_Popup_View' not found in /home/crm4b519/public_html/modules/Inventory/views/SubProductsPopup.php on line 11
+[27-Apr-2014 09:55:09] PHP Fatal error:  Class 'Inventory_ProductsPopup_View' not found in /home/crm4b519/public_html/modules/Inventory/views/ProductsPopupAjax.php on line 11
+[27-Apr-2014 09:55:09] PHP Fatal error:  Class 'Inventory_ServicesPopup_View' not found in /home/crm4b519/public_html/modules/Inventory/views/ServicesPopupAjax.php on line 11
+[27-Apr-2014 09:55:09] PHP Fatal error:  Class 'Inventory_SubProductsPopup_View' not found in /home/crm4b519/public_html/modules/Inventory/views/SubProductsPopupAjax.php on line 11

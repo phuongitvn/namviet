@@ -1,0 +1,1 @@
+[27-Apr-2014 09:55:09] PHP Fatal error:  Call to undefined function vimport() in /home/crm4b519/public_html/modules/Install/models/InitSchema.php on line 10

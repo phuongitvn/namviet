@@ -1,0 +1,6 @@
+[27-Apr-2014 09:55:10] PHP Fatal error:  Class 'Vtiger_Edit_View' not found in /home/crm4b519/public_html/modules/Products/views/Edit.php on line 12
+[27-Apr-2014 09:55:10] PHP Fatal error:  Class 'Vtiger_Detail_View' not found in /home/crm4b519/public_html/modules/Products/views/Detail.php on line 12
+[27-Apr-2014 09:55:10] PHP Fatal error:  Class 'Vtiger_QuickCreateAjax_View' not found in /home/crm4b519/public_html/modules/Products/views/QuickCreateAjax.php on line 11
+[27-Apr-2014 09:55:10] PHP Fatal error:  Class 'Vtiger_IndexAjax_View' not found in /home/crm4b519/public_html/modules/Products/views/MoreCurrenciesList.php on line 12
+[27-Apr-2014 09:55:10] PHP Fatal error:  Class 'Vtiger_Popup_View' not found in /home/crm4b519/public_html/modules/Products/views/PriceBookProductPopup.php on line 11
+[27-Apr-2014 09:55:10] PHP Fatal error:  Class 'Products_PriceBookProductPopup_View' not found in /home/crm4b519/public_html/modules/Products/views/PriceBookProductPopupAjax.php on line 11

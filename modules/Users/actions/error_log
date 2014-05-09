@@ -1,0 +1,11 @@
+[27-Apr-2014 09:55:05] PHP Fatal error:  Class 'Vtiger_Action_Controller' not found in /home/crm4b519/public_html/modules/Users/actions/Login.php on line 11
+[27-Apr-2014 09:55:05] PHP Fatal error:  Class 'Vtiger_Save_Action' not found in /home/crm4b519/public_html/modules/Users/actions/Save.php on line 11
+[27-Apr-2014 09:55:05] PHP Fatal error:  Class 'Vtiger_Action_Controller' not found in /home/crm4b519/public_html/modules/Users/actions/Logout.php on line 11
+[27-Apr-2014 09:55:05] PHP Fatal error:  Class 'Users_List_View' not found in /home/crm4b519/public_html/modules/Users/actions/ListAjax.php on line 11
+[27-Apr-2014 09:55:05] PHP Fatal error:  Call to undefined function vimport() in /home/crm4b519/public_html/modules/Users/actions/SaveAjax.php on line 10
+[27-Apr-2014 09:55:05] PHP Fatal error:  Class 'Vtiger_BasicAjax_Action' not found in /home/crm4b519/public_html/modules/Users/actions/BasicAjax.php on line 11
+[27-Apr-2014 09:55:05] PHP Fatal error:  Class 'Vtiger_BasicAjax_Action' not found in /home/crm4b519/public_html/modules/Users/actions/IndexAjax.php on line 12
+[27-Apr-2014 09:55:05] PHP Fatal error:  Call to undefined function vimport() in /home/crm4b519/public_html/modules/Users/actions/DeleteAjax.php on line 10
+[27-Apr-2014 09:55:05] PHP Fatal error:  Class 'Vtiger_Action_Controller' not found in /home/crm4b519/public_html/modules/Users/actions/DeleteImage.php on line 11
+[27-Apr-2014 09:55:05] PHP Fatal error:  Class 'Users_Save_Action' not found in /home/crm4b519/public_html/modules/Users/actions/UserSetupSave.php on line 11
+[27-Apr-2014 09:55:05] PHP Fatal error:  Class 'Users_Save_Action' not found in /home/crm4b519/public_html/modules/Users/actions/SaveCalendarSettings.php on line 11

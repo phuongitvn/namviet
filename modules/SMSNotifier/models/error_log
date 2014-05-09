@@ -1,0 +1,6 @@
+[27-Apr-2014 09:55:13] PHP Fatal error:  Class 'Vtiger_Module_Model' not found in /home/crm4b519/public_html/modules/SMSNotifier/models/Module.php on line 11
+[27-Apr-2014 09:55:13] PHP Fatal error:  Class 'Vtiger_Base_Model' not found in /home/crm4b519/public_html/modules/SMSNotifier/models/Provider.php on line 11
+[27-Apr-2014 09:55:13] PHP Fatal error:  Class 'Vtiger_ListView_Model' not found in /home/crm4b519/public_html/modules/SMSNotifier/models/ListView.php on line 11
+[27-Apr-2014 09:55:13] PHP Fatal error:  Call to undefined function vimport() in /home/crm4b519/public_html/modules/SMSNotifier/models/Record.php on line 10
+[27-Apr-2014 09:55:13] PHP Fatal error:  Class 'Vtiger_DetailView_Model' not found in /home/crm4b519/public_html/modules/SMSNotifier/models/DetailView.php on line 11
+[27-Apr-2014 09:55:13] PHP Fatal error:  Call to undefined function vimport() in /home/crm4b519/public_html/modules/SMSNotifier/models/ISMSProvider.php on line 11

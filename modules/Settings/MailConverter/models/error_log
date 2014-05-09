@@ -1,0 +1,5 @@
+[27-Apr-2014 09:55:24] PHP Fatal error:  Class 'Vtiger_Field_Model' not found in /home/crm4b519/public_html/modules/Settings/MailConverter/models/Field.php on line 12
+[27-Apr-2014 09:55:24] PHP Fatal error:  Class 'Vtiger_Field_Model' not found in /home/crm4b519/public_html/modules/Settings/MailConverter/models/RuleField.php on line 12
+[27-Apr-2014 09:55:25] PHP Fatal error:  Class 'Settings_Vtiger_Record_Model' not found in /home/crm4b519/public_html/modules/Settings/MailConverter/models/Record.php on line 11
+[27-Apr-2014 09:55:25] PHP Fatal error:  Class 'Settings_Vtiger_Module_Model' not found in /home/crm4b519/public_html/modules/Settings/MailConverter/models/Module.php on line 11
+[27-Apr-2014 09:55:25] PHP Fatal error:  Call to undefined function vimport() in /home/crm4b519/public_html/modules/Settings/MailConverter/models/RuleRecord.php on line 11

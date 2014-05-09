@@ -1,0 +1,1 @@
+[27-Apr-2014 09:55:09] PHP Fatal error:  Class 'Vtiger_Module_Model' not found in /home/crm4b519/public_html/modules/Migration/models/Module.php on line 12

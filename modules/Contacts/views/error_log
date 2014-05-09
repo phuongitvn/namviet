@@ -1,0 +1,5 @@
+[27-Apr-2014 09:55:09] PHP Fatal error:  Class 'Vtiger_Edit_View' not found in /home/crm4b519/public_html/modules/Contacts/views/Edit.php on line 12
+[27-Apr-2014 09:55:09] PHP Fatal error:  Class 'Accounts_Detail_View' not found in /home/crm4b519/public_html/modules/Contacts/views/Detail.php on line 12
+[27-Apr-2014 09:55:09] PHP Fatal error:  Class 'Vtiger_Popup_View' not found in /home/crm4b519/public_html/modules/Contacts/views/Popup.php on line 11
+[27-Apr-2014 09:55:09] PHP Fatal error:  Class 'Contacts_Popup_View' not found in /home/crm4b519/public_html/modules/Contacts/views/PopupAjax.php on line 11
+[27-Apr-2014 09:55:09] PHP Fatal error:  Class 'Vtiger_QuickCreateAjax_View' not found in /home/crm4b519/public_html/modules/Contacts/views/QuickCreateAjax.php on line 11

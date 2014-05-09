@@ -1,0 +1,8 @@
+[27-Apr-2014 09:54:40] PHP Fatal error:  Class 'DFA' not found in /home/crm4b519/public_html/include/events/VTEventConditionParserLexer.php on line 47
+[27-Apr-2014 09:54:40] PHP Fatal error:  Class 'AntlrParser' not found in /home/crm4b519/public_html/include/events/VTEventConditionParserParser.php on line 13
+[27-Apr-2014 09:56:25] PHP Fatal error:  Class 'DFA' not found in /home/crm4b519/public_html/include/events/VTEventConditionParserLexer.php on line 47
+[27-Apr-2014 09:56:25] PHP Fatal error:  Class 'AntlrParser' not found in /home/crm4b519/public_html/include/events/VTEventConditionParserParser.php on line 13
+[27-Apr-2014 09:56:25] PHP Fatal error:  Class 'AntlrParser' not found in /home/crm4b519/public_html/include/events/VTEventConditionParserParser.php on line 13
+[27-Apr-2014 09:56:25] PHP Fatal error:  Class 'DFA' not found in /home/crm4b519/public_html/include/events/VTEventConditionParserLexer.php on line 47
+[27-Apr-2014 09:56:25] PHP Fatal error:  Class 'AntlrParser' not found in /home/crm4b519/public_html/include/events/VTEventConditionParserParser.php on line 13
+[27-Apr-2014 09:56:25] PHP Fatal error:  Class 'DFA' not found in /home/crm4b519/public_html/include/events/VTEventConditionParserLexer.php on line 47

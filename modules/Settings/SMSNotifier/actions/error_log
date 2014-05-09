@@ -1,0 +1,2 @@
+[27-Apr-2014 09:55:25] PHP Fatal error:  Class 'Settings_Vtiger_Index_Action' not found in /home/crm4b519/public_html/modules/Settings/SMSNotifier/actions/Delete.php on line 11
+[27-Apr-2014 09:55:25] PHP Fatal error:  Class 'Settings_Vtiger_Index_Action' not found in /home/crm4b519/public_html/modules/Settings/SMSNotifier/actions/SaveAjax.php on line 11

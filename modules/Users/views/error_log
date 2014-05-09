@@ -1,0 +1,14 @@
+[27-Apr-2014 09:55:02] PHP Fatal error:  Class 'Settings_Vtiger_List_View' not found in /home/crm4b519/public_html/modules/Users/views/List.php on line 11
+[27-Apr-2014 09:55:02] PHP Fatal error:  Class 'Vtiger_Basic_View' not found in /home/crm4b519/public_html/modules/Users/views/Index.php on line 11
+[27-Apr-2014 09:55:02] PHP Fatal error:  Class 'Users_PreferenceEdit_View' not found in /home/crm4b519/public_html/modules/Users/views/Edit.php on line 11
+[27-Apr-2014 09:55:02] PHP Fatal error:  Class 'Vtiger_View_Controller' not found in /home/crm4b519/public_html/modules/Users/views/Login.php on line 11
+[27-Apr-2014 09:55:02] PHP Fatal error:  Class 'Users_PreferenceDetail_View' not found in /home/crm4b519/public_html/modules/Users/views/Detail.php on line 11
+[27-Apr-2014 09:55:02] PHP Fatal error:  Class 'Vtiger_IndexAjax_View' not found in /home/crm4b519/public_html/modules/Users/views/EditAjax.php on line 12
+[27-Apr-2014 09:55:02] PHP Fatal error:  Class 'Vtiger_Index_View' not found in /home/crm4b519/public_html/modules/Users/views/UserSetup.php on line 11
+[27-Apr-2014 09:55:02] PHP Fatal error:  Class 'Vtiger_Index_View' not found in /home/crm4b519/public_html/modules/Users/views/DeleteAjax.php on line 11
+[27-Apr-2014 09:55:02] PHP Fatal error:  Class 'Vtiger_Index_View' not found in /home/crm4b519/public_html/modules/Users/views/DeleteUser.php on line 11
+[27-Apr-2014 09:55:02] PHP Fatal error:  Class 'Vtiger_Basic_View' not found in /home/crm4b519/public_html/modules/Users/views/ChangePassword.php on line 12
+[27-Apr-2014 09:55:02] PHP Fatal error:  Class 'Vtiger_Index_View' not found in /home/crm4b519/public_html/modules/Users/views/SystemSetup.php on line 11
+[27-Apr-2014 09:55:02] PHP Fatal error:  Class 'Vtiger_Edit_View' not found in /home/crm4b519/public_html/modules/Users/views/PreferenceEdit.php on line 11
+[27-Apr-2014 09:55:02] PHP Fatal error:  Class 'Vtiger_QuickCreateAjax_View' not found in /home/crm4b519/public_html/modules/Users/views/QuickCreateAjax.php on line 11
+[27-Apr-2014 09:55:02] PHP Fatal error:  Class 'Vtiger_Detail_View' not found in /home/crm4b519/public_html/modules/Users/views/PreferenceDetail.php on line 11

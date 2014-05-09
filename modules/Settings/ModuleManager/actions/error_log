@@ -1,0 +1,2 @@
+[27-Apr-2014 09:55:26] PHP Fatal error:  Class 'Settings_Vtiger_IndexAjax_View' not found in /home/crm4b519/public_html/modules/Settings/ModuleManager/actions/Basic.php on line 10
+[27-Apr-2014 09:55:26] PHP Fatal error:  Class 'Settings_Vtiger_IndexAjax_View' not found in /home/crm4b519/public_html/modules/Settings/ModuleManager/actions/ModuleExport.php on line 11

@@ -1,0 +1,6 @@
+[27-Apr-2014 09:55:22] PHP Fatal error:  Class 'Settings_Roles_Index_View' not found in /home/crm4b519/public_html/modules/Settings/Roles/views/Edit.php on line 11
+[27-Apr-2014 09:55:22] PHP Fatal error:  Class 'Settings_Vtiger_Index_View' not found in /home/crm4b519/public_html/modules/Settings/Roles/views/Index.php on line 11
+[27-Apr-2014 09:55:22] PHP Fatal error:  Class 'Vtiger_Footer_View' not found in /home/crm4b519/public_html/modules/Settings/Roles/views/Popup.php on line 11
+[27-Apr-2014 09:55:22] PHP Fatal error:  Class 'Settings_Roles_IndexAjax_View' not found in /home/crm4b519/public_html/modules/Settings/Roles/views/EditAjax.php on line 11
+[27-Apr-2014 09:55:23] PHP Fatal error:  Class 'Settings_Roles_Index_View' not found in /home/crm4b519/public_html/modules/Settings/Roles/views/IndexAjax.php on line 11
+[27-Apr-2014 09:55:23] PHP Fatal error:  Class 'Settings_Roles_IndexAjax_View' not found in /home/crm4b519/public_html/modules/Settings/Roles/views/DeleteAjax.php on line 11

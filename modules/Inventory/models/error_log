@@ -1,0 +1,7 @@
+[27-Apr-2014 09:55:09] PHP Fatal error:  Class 'Vtiger_Module_Model' not found in /home/crm4b519/public_html/modules/Inventory/models/Module.php on line 13
+[27-Apr-2014 09:55:09] PHP Fatal error:  Class 'Vtiger_Record_Model' not found in /home/crm4b519/public_html/modules/Inventory/models/Record.php on line 14
+[27-Apr-2014 09:55:09] PHP Fatal error:  Class 'Vtiger_ListView_Model' not found in /home/crm4b519/public_html/modules/Inventory/models/ListView.php on line 14
+[27-Apr-2014 09:55:09] PHP Fatal error:  Class 'Vtiger_DetailView_Model' not found in /home/crm4b519/public_html/modules/Inventory/models/DetailView.php on line 11
+[27-Apr-2014 09:55:09] PHP Fatal error:  Class 'Vtiger_RelationListView_Model' not found in /home/crm4b519/public_html/modules/Inventory/models/RelationListView.php on line 11
+[27-Apr-2014 09:55:09] PHP Fatal error:  Class 'Vtiger_EditRecordStructure_Model' not found in /home/crm4b519/public_html/modules/Inventory/models/EditRecordStructure.php on line 14
+[27-Apr-2014 09:55:09] PHP Fatal error:  Class 'Vtiger_MassEditRecordStructure_Model' not found in /home/crm4b519/public_html/modules/Inventory/models/MassEditRecordStructure.php on line 14

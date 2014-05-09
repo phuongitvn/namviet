@@ -1,0 +1,1 @@
+[27-Apr-2014 09:55:06] PHP Fatal error:  Class 'Vtiger_BasicAjax_Action' not found in /home/crm4b519/public_html/modules/Google/actions/MapAjax.php on line 12

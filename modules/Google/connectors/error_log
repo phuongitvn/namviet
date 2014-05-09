@@ -1,0 +1,3 @@
+[27-Apr-2014 09:55:07] PHP Fatal error:  Call to undefined function vimport() in /home/crm4b519/public_html/modules/Google/connectors/Calendar.php on line 10
+[27-Apr-2014 09:55:07] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'Zend/Gdata/Contacts.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/crm4b519/public_html/modules/Google/connectors/Contacts.php on line 11
+[27-Apr-2014 09:55:07] PHP Fatal error:  Call to undefined function vimport() in /home/crm4b519/public_html/modules/Google/connectors/Oauth.php on line 15

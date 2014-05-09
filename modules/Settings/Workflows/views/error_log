@@ -1,0 +1,5 @@
+[27-Apr-2014 09:55:25] PHP Fatal error:  Class 'Settings_Vtiger_Index_View' not found in /home/crm4b519/public_html/modules/Settings/Workflows/views/Edit.php on line 11
+[27-Apr-2014 09:55:25] PHP Fatal error:  Class 'Settings_Vtiger_List_View' not found in /home/crm4b519/public_html/modules/Settings/Workflows/views/List.php on line 11
+[27-Apr-2014 09:55:25] PHP Fatal error:  Class 'Settings_Vtiger_Index_View' not found in /home/crm4b519/public_html/modules/Settings/Workflows/views/EditTask.php on line 11
+[27-Apr-2014 09:55:25] PHP Fatal error:  Class 'Settings_Vtiger_Index_View' not found in /home/crm4b519/public_html/modules/Settings/Workflows/views/TasksList.php on line 11
+[27-Apr-2014 09:55:25] PHP Fatal error:  Class 'Settings_Vtiger_Index_View' not found in /home/crm4b519/public_html/modules/Settings/Workflows/views/CreateEntity.php on line 11

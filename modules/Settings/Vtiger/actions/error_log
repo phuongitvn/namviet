@@ -1,0 +1,11 @@
+[27-Apr-2014 09:55:24] PHP Fatal error:  Class 'Settings_Vtiger_IndexAjax_View' not found in /home/crm4b519/public_html/modules/Settings/Vtiger/actions/Basic.php on line 10
+[27-Apr-2014 09:55:24] PHP Fatal error:  Class 'Settings_Vtiger_IndexAjax_View' not found in /home/crm4b519/public_html/modules/Settings/Vtiger/actions/Index.php on line 11
+[27-Apr-2014 09:55:24] PHP Fatal error:  Class 'Settings_Vtiger_Basic_Action' not found in /home/crm4b519/public_html/modules/Settings/Vtiger/actions/TaxAjax.php on line 12
+[27-Apr-2014 09:55:24] PHP Fatal error:  Class 'Settings_Vtiger_ListAjax_View' not found in /home/crm4b519/public_html/modules/Settings/Vtiger/actions/ListAjax.php on line 11
+[27-Apr-2014 09:55:24] PHP Fatal error:  Class 'Settings_Vtiger_Basic_Action' not found in /home/crm4b519/public_html/modules/Settings/Vtiger/actions/CompanyDetailsSave.php on line 12
+[27-Apr-2014 09:55:24] PHP Fatal error:  Class 'Settings_Vtiger_Basic_Action' not found in /home/crm4b519/public_html/modules/Settings/Vtiger/actions/AnnouncementSaveAjax.php on line 12
+[27-Apr-2014 09:55:24] PHP Fatal error:  Class 'Settings_Vtiger_Basic_Action' not found in /home/crm4b519/public_html/modules/Settings/Vtiger/actions/UpdateCompanyLogo.php on line 12
+[27-Apr-2014 09:55:24] PHP Fatal error:  Class 'Settings_Vtiger_Basic_Action' not found in /home/crm4b519/public_html/modules/Settings/Vtiger/actions/OutgoingServerSaveAjax.php on line 12
+[27-Apr-2014 09:55:24] PHP Fatal error:  Class 'Settings_Vtiger_Index_Action' not found in /home/crm4b519/public_html/modules/Settings/Vtiger/actions/CustomRecordNumberingAjax.php on line 11
+[27-Apr-2014 09:55:24] PHP Fatal error:  Class 'Settings_Vtiger_Basic_Action' not found in /home/crm4b519/public_html/modules/Settings/Vtiger/actions/ConfigEditorSaveAjax.php on line 12
+[27-Apr-2014 09:55:24] PHP Fatal error:  Class 'Settings_Vtiger_Basic_Action' not found in /home/crm4b519/public_html/modules/Settings/Vtiger/actions/TermsAndConditionsSaveAjax.php on line 11

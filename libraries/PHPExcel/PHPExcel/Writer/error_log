@@ -1,0 +1,45 @@
+[27-Apr-2014 09:27:36] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/crm4b519/public_html/libraries/PHPExcel/PHPExcel/Writer/CSV.php on line 36
+[27-Apr-2014 09:27:36] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'PHPEXCEL_ROOTPHPExcel/Shared/PDF/tcpdf.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/crm4b519/public_html/libraries/PHPExcel/PHPExcel/Writer/PDF.php on line 31
+[27-Apr-2014 09:27:36] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/crm4b519/public_html/libraries/PHPExcel/PHPExcel/Writer/HTML.php on line 36
+[27-Apr-2014 09:27:36] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/crm4b519/public_html/libraries/PHPExcel/PHPExcel/Writer/Excel5.php on line 36
+[27-Apr-2014 09:27:36] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/crm4b519/public_html/libraries/PHPExcel/PHPExcel/Writer/Excel2007.php on line 36
+[27-Apr-2014 09:38:59] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/crm4b519/public_html/libraries/PHPExcel/PHPExcel/Writer/CSV.php on line 36
+[27-Apr-2014 09:38:59] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/crm4b519/public_html/libraries/PHPExcel/PHPExcel/Writer/CSV.php on line 36
+[27-Apr-2014 09:38:59] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/crm4b519/public_html/libraries/PHPExcel/PHPExcel/Writer/CSV.php on line 36
+[27-Apr-2014 09:38:59] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'PHPEXCEL_ROOTPHPExcel/Shared/PDF/tcpdf.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/crm4b519/public_html/libraries/PHPExcel/PHPExcel/Writer/PDF.php on line 31
+[27-Apr-2014 09:39:00] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/crm4b519/public_html/libraries/PHPExcel/PHPExcel/Writer/HTML.php on line 36
+[27-Apr-2014 09:39:00] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'PHPEXCEL_ROOTPHPExcel/Shared/PDF/tcpdf.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/crm4b519/public_html/libraries/PHPExcel/PHPExcel/Writer/PDF.php on line 31
+[27-Apr-2014 09:39:00] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/crm4b519/public_html/libraries/PHPExcel/PHPExcel/Writer/HTML.php on line 36
+[27-Apr-2014 09:39:00] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'PHPEXCEL_ROOTPHPExcel/Shared/PDF/tcpdf.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/crm4b519/public_html/libraries/PHPExcel/PHPExcel/Writer/PDF.php on line 31
+[27-Apr-2014 09:39:00] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/crm4b519/public_html/libraries/PHPExcel/PHPExcel/Writer/Excel5.php on line 36
+[27-Apr-2014 09:39:00] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/crm4b519/public_html/libraries/PHPExcel/PHPExcel/Writer/HTML.php on line 36
+[27-Apr-2014 09:39:00] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/crm4b519/public_html/libraries/PHPExcel/PHPExcel/Writer/Excel5.php on line 36
+[27-Apr-2014 09:39:00] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/crm4b519/public_html/libraries/PHPExcel/PHPExcel/Writer/Excel5.php on line 36
+[27-Apr-2014 09:39:00] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/crm4b519/public_html/libraries/PHPExcel/PHPExcel/Writer/Excel2007.php on line 36
+[27-Apr-2014 09:39:00] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/crm4b519/public_html/libraries/PHPExcel/PHPExcel/Writer/Excel2007.php on line 36
+[27-Apr-2014 09:39:01] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/crm4b519/public_html/libraries/PHPExcel/PHPExcel/Writer/Excel2007.php on line 36
+[27-Apr-2014 09:54:05] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/crm4b519/public_html/libraries/PHPExcel/PHPExcel/Writer/CSV.php on line 36
+[27-Apr-2014 09:54:05] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'PHPEXCEL_ROOTPHPExcel/Shared/PDF/tcpdf.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/crm4b519/public_html/libraries/PHPExcel/PHPExcel/Writer/PDF.php on line 31
+[27-Apr-2014 09:54:05] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/crm4b519/public_html/libraries/PHPExcel/PHPExcel/Writer/HTML.php on line 36
+[27-Apr-2014 09:54:05] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/crm4b519/public_html/libraries/PHPExcel/PHPExcel/Writer/Excel5.php on line 36
+[27-Apr-2014 09:54:05] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/crm4b519/public_html/libraries/PHPExcel/PHPExcel/Writer/Excel2007.php on line 36
+[27-Apr-2014 10:00:35] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/crm4b519/public_html/libraries/PHPExcel/PHPExcel/Writer/CSV.php on line 36
+[27-Apr-2014 10:00:35] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'PHPEXCEL_ROOTPHPExcel/Shared/PDF/tcpdf.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/crm4b519/public_html/libraries/PHPExcel/PHPExcel/Writer/PDF.php on line 31
+[27-Apr-2014 10:00:35] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/crm4b519/public_html/libraries/PHPExcel/PHPExcel/Writer/HTML.php on line 36
+[27-Apr-2014 10:00:36] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/crm4b519/public_html/libraries/PHPExcel/PHPExcel/Writer/Excel5.php on line 36
+[27-Apr-2014 10:00:36] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/crm4b519/public_html/libraries/PHPExcel/PHPExcel/Writer/Excel2007.php on line 36
+[27-Apr-2014 10:09:42] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/crm4b519/public_html/libraries/PHPExcel/PHPExcel/Writer/CSV.php on line 36
+[27-Apr-2014 10:09:42] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'PHPEXCEL_ROOTPHPExcel/Shared/PDF/tcpdf.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/crm4b519/public_html/libraries/PHPExcel/PHPExcel/Writer/PDF.php on line 31
+[27-Apr-2014 10:09:43] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/crm4b519/public_html/libraries/PHPExcel/PHPExcel/Writer/CSV.php on line 36
+[27-Apr-2014 10:09:43] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'PHPEXCEL_ROOTPHPExcel/Shared/PDF/tcpdf.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/crm4b519/public_html/libraries/PHPExcel/PHPExcel/Writer/PDF.php on line 31
+[27-Apr-2014 10:09:43] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'PHPEXCEL_ROOTPHPExcel/Shared/PDF/tcpdf.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/crm4b519/public_html/libraries/PHPExcel/PHPExcel/Writer/PDF.php on line 31
+[27-Apr-2014 10:09:43] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/crm4b519/public_html/libraries/PHPExcel/PHPExcel/Writer/CSV.php on line 36
+[27-Apr-2014 10:09:43] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/crm4b519/public_html/libraries/PHPExcel/PHPExcel/Writer/HTML.php on line 36
+[27-Apr-2014 10:09:43] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/crm4b519/public_html/libraries/PHPExcel/PHPExcel/Writer/Excel5.php on line 36
+[27-Apr-2014 10:09:43] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/crm4b519/public_html/libraries/PHPExcel/PHPExcel/Writer/HTML.php on line 36
+[27-Apr-2014 10:09:43] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/crm4b519/public_html/libraries/PHPExcel/PHPExcel/Writer/Excel5.php on line 36
+[27-Apr-2014 10:09:43] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/crm4b519/public_html/libraries/PHPExcel/PHPExcel/Writer/HTML.php on line 36
+[27-Apr-2014 10:09:43] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/crm4b519/public_html/libraries/PHPExcel/PHPExcel/Writer/Excel5.php on line 36
+[27-Apr-2014 10:09:44] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/crm4b519/public_html/libraries/PHPExcel/PHPExcel/Writer/Excel2007.php on line 36
+[27-Apr-2014 10:09:44] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/crm4b519/public_html/libraries/PHPExcel/PHPExcel/Writer/Excel2007.php on line 36
+[27-Apr-2014 10:09:44] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/crm4b519/public_html/libraries/PHPExcel/PHPExcel/Writer/Excel2007.php on line 36

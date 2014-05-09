@@ -1,0 +1,7 @@
+[27-Apr-2014 09:55:09] PHP Fatal error:  Class 'Inventory_Module_Model' not found in /home/crm4b519/public_html/modules/Invoice/models/Module.php on line 11
+[27-Apr-2014 09:55:09] PHP Fatal error:  Class 'Inventory_ListView_Model' not found in /home/crm4b519/public_html/modules/Invoice/models/ListView.php on line 11
+[27-Apr-2014 09:55:09] PHP Fatal error:  Class 'Inventory_Record_Model' not found in /home/crm4b519/public_html/modules/Invoice/models/Record.php on line 14
+[27-Apr-2014 09:55:09] PHP Fatal error:  Class 'Inventory_RelationListView_Model' not found in /home/crm4b519/public_html/modules/Invoice/models/RelationListView.php on line 11
+[27-Apr-2014 09:55:09] PHP Fatal error:  Class 'Inventory_DetailView_Model' not found in /home/crm4b519/public_html/modules/Invoice/models/DetailView.php on line 11
+[27-Apr-2014 09:55:09] PHP Fatal error:  Class 'Inventory_EditRecordStructure_Model' not found in /home/crm4b519/public_html/modules/Invoice/models/EditRecordStructure.php on line 14
+[27-Apr-2014 09:55:09] PHP Fatal error:  Class 'Inventory_MassEditRecordStructure_Model' not found in /home/crm4b519/public_html/modules/Invoice/models/MassEditRecordStructure.php on line 14

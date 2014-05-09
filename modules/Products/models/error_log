@@ -1,0 +1,7 @@
+[27-Apr-2014 09:55:10] PHP Fatal error:  Class 'Vtiger_Module_Model' not found in /home/crm4b519/public_html/modules/Products/models/Module.php on line 11
+[27-Apr-2014 09:55:10] PHP Fatal error:  Class 'Vtiger_Record_Model' not found in /home/crm4b519/public_html/modules/Products/models/Record.php on line 11
+[27-Apr-2014 09:55:10] PHP Fatal error:  Class 'Vtiger_Relation_Model' not found in /home/crm4b519/public_html/modules/Products/models/Relation.php on line 11
+[27-Apr-2014 09:55:11] PHP Fatal error:  Class 'Vtiger_ListView_Model' not found in /home/crm4b519/public_html/modules/Products/models/ListView.php on line 11
+[27-Apr-2014 09:55:11] PHP Fatal error:  Class 'Vtiger_DetailView_Model' not found in /home/crm4b519/public_html/modules/Products/models/DetailView.php on line 11
+[27-Apr-2014 09:55:11] PHP Fatal error:  Class 'Vtiger_RelationListView_Model' not found in /home/crm4b519/public_html/modules/Products/models/RelationListView.php on line 11
+[27-Apr-2014 09:55:11] PHP Fatal error:  Class 'Vtiger_MassEditRecordStructure_Model' not found in /home/crm4b519/public_html/modules/Products/models/MassEditRecordStructure.php on line 15

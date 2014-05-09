@@ -1,0 +1,4 @@
+[27-Apr-2014 09:55:16] PHP Fatal error:  Class 'Vtiger_Record_Model' not found in /home/crm4b519/public_html/modules/Contacts/models/Record.php on line 11
+[27-Apr-2014 09:55:16] PHP Fatal error:  Class 'Vtiger_Module_Model' not found in /home/crm4b519/public_html/modules/Contacts/models/Module.php on line 11
+[27-Apr-2014 09:55:16] PHP Fatal error:  Class 'Vtiger_ListView_Model' not found in /home/crm4b519/public_html/modules/Contacts/models/ListView.php on line 11
+[27-Apr-2014 09:55:16] PHP Fatal error:  Class 'Accounts_DetailView_Model' not found in /home/crm4b519/public_html/modules/Contacts/models/DetailView.php on line 12

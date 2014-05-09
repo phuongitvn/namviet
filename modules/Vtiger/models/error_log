@@ -1,0 +1,34 @@
+[27-Apr-2014 09:55:06] PHP Fatal error:  Call to undefined function vimport() in /home/crm4b519/public_html/modules/Vtiger/models/Tag.php on line 10
+[27-Apr-2014 09:55:06] PHP Fatal error:  Class 'Vtiger_Link' not found in /home/crm4b519/public_html/modules/Vtiger/models/Link.php on line 16
+[27-Apr-2014 09:55:06] PHP Fatal error:  Class 'Vtiger_Module_Model' not found in /home/crm4b519/public_html/modules/Vtiger/models/Menu.php on line 14
+[27-Apr-2014 09:55:06] PHP Fatal error:  Class 'Vtiger_Field' not found in /home/crm4b519/public_html/modules/Vtiger/models/Field.php on line 15
+[27-Apr-2014 09:55:06] PHP Fatal error:  Class 'Vtiger_Base_Model' not found in /home/crm4b519/public_html/modules/Vtiger/models/Image.php on line 14
+[27-Apr-2014 09:55:06] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'vtlib/Vtiger/Block.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/crm4b519/public_html/modules/Vtiger/models/Block.php on line 10
+[27-Apr-2014 09:55:06] PHP Fatal error:  Call to undefined function vimport() in /home/crm4b519/public_html/modules/Vtiger/models/Module.php on line 10
+[27-Apr-2014 09:55:06] PHP Fatal error:  Class 'Vtiger_Base_Model' not found in /home/crm4b519/public_html/modules/Vtiger/models/Action.php on line 14
+[27-Apr-2014 09:55:06] PHP Fatal error:  Class 'Vtiger_Base_Model' not found in /home/crm4b519/public_html/modules/Vtiger/models/Paging.php on line 14
+[27-Apr-2014 09:55:06] PHP Fatal error:  Class 'Vtiger_Base_Model' not found in /home/crm4b519/public_html/modules/Vtiger/models/Widget.php on line 13
+[27-Apr-2014 09:55:06] PHP Fatal error:  Class 'Vtiger_Base_Model' not found in /home/crm4b519/public_html/modules/Vtiger/models/Record.php on line 14
+[27-Apr-2014 09:55:06] PHP Fatal error:  Class 'Vtiger_Base_Model' not found in /home/crm4b519/public_html/modules/Vtiger/models/ListView.php on line 14
+[27-Apr-2014 09:55:06] PHP Fatal error:  Class 'Vtiger_Widget_Model' not found in /home/crm4b519/public_html/modules/Vtiger/models/MiniList.php on line 11
+[27-Apr-2014 09:55:06] PHP Fatal error:  Class 'Vtiger_Action_Model' not found in /home/crm4b519/public_html/modules/Vtiger/models/Utility.php on line 14
+[27-Apr-2014 09:55:06] PHP Fatal error:  Class 'Vtiger_Base_Model' not found in /home/crm4b519/public_html/modules/Vtiger/models/EditView.php on line 14
+[27-Apr-2014 09:55:06] PHP Fatal error:  Class 'Vtiger_Base_Model' not found in /home/crm4b519/public_html/modules/Vtiger/models/JsScript.php on line 14
+[27-Apr-2014 09:55:06] PHP Fatal error:  Class 'Vtiger_Widget_Model' not found in /home/crm4b519/public_html/modules/Vtiger/models/Notebook.php on line 11
+[27-Apr-2014 09:55:06] PHP Fatal error:  Class 'Vtiger_Base_Model' not found in /home/crm4b519/public_html/modules/Vtiger/models/DashBoard.php on line 11
+[27-Apr-2014 09:55:06] PHP Fatal error:  Class 'Vtiger_Base_Model' not found in /home/crm4b519/public_html/modules/Vtiger/models/Relation.php on line 11
+[27-Apr-2014 09:55:06] PHP Fatal error:  Class 'Vtiger_Base_Model' not found in /home/crm4b519/public_html/modules/Vtiger/models/CssScript.php on line 14
+[27-Apr-2014 09:55:06] PHP Fatal error:  Class 'Vtiger_Base_Model' not found in /home/crm4b519/public_html/modules/Vtiger/models/ModuleMeta.php on line 11
+[27-Apr-2014 09:55:06] PHP Fatal error:  Class 'Vtiger_Base_Model' not found in /home/crm4b519/public_html/modules/Vtiger/models/DetailView.php on line 11
+[27-Apr-2014 09:55:06] PHP Fatal error:  Call to undefined function vimport() in /home/crm4b519/public_html/modules/Vtiger/models/TooltipView.php on line 11
+[27-Apr-2014 09:55:06] PHP Fatal error:  Class 'Vtiger_Record_Model' not found in /home/crm4b519/public_html/modules/Vtiger/models/TrackRecord.php on line 14
+[27-Apr-2014 09:55:06] PHP Fatal error:  Class 'Vtiger_Base_Model' not found in /home/crm4b519/public_html/modules/Vtiger/models/MenuStructure.php on line 14
+[27-Apr-2014 09:55:07] PHP Fatal error:  Class 'Vtiger_Base_Model' not found in /home/crm4b519/public_html/modules/Vtiger/models/FindDuplicate.php on line 11
+[27-Apr-2014 09:55:07] PHP Fatal error:  Class 'Vtiger_Base_Model' not found in /home/crm4b519/public_html/modules/Vtiger/models/CompanyDetails.php on line 14
+[27-Apr-2014 09:55:07] PHP Fatal error:  Class 'Vtiger_Base_Model' not found in /home/crm4b519/public_html/modules/Vtiger/models/RecordStructure.php on line 14
+[27-Apr-2014 09:55:07] PHP Fatal error:  Class 'Vtiger_Base_Model' not found in /home/crm4b519/public_html/modules/Vtiger/models/RelationListView.php on line 11
+[27-Apr-2014 09:55:07] PHP Fatal error:  Class 'Vtiger_RecordStructure_Model' not found in /home/crm4b519/public_html/modules/Vtiger/models/EditRecordStructure.php on line 14
+[27-Apr-2014 09:55:07] PHP Fatal error:  Class 'Vtiger_RecordStructure_Model' not found in /home/crm4b519/public_html/modules/Vtiger/models/DetailRecordStructure.php on line 14
+[27-Apr-2014 09:55:07] PHP Fatal error:  Class 'Vtiger_EditRecordStructure_Model' not found in /home/crm4b519/public_html/modules/Vtiger/models/MassEditRecordStructure.php on line 14
+[27-Apr-2014 09:55:07] PHP Fatal error:  Class 'Vtiger_RecordStructure_Model' not found in /home/crm4b519/public_html/modules/Vtiger/models/QuickCreateRecordStructure.php on line 14
+[27-Apr-2014 09:55:07] PHP Fatal error:  Class 'Vtiger_DetailRecordStructure_Model' not found in /home/crm4b519/public_html/modules/Vtiger/models/SummaryRecordStructure.php on line 14

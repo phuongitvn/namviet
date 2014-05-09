@@ -1,0 +1,2 @@
+[27-Apr-2014 09:55:24] PHP Fatal error:  Class 'Vtiger_Field_Model' not found in /home/crm4b519/public_html/modules/Settings/Picklist/models/Field.php on line 12
+[27-Apr-2014 09:55:24] PHP Fatal error:  Class 'Vtiger_Module_Model' not found in /home/crm4b519/public_html/modules/Settings/Picklist/models/Module.php on line 11

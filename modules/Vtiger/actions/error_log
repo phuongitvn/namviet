@@ -1,0 +1,17 @@
+[27-Apr-2014 09:55:07] PHP Fatal error:  Class 'Vtiger_Action_Controller' not found in /home/crm4b519/public_html/modules/Vtiger/actions/Delete.php on line 11
+[27-Apr-2014 09:55:07] PHP Fatal error:  Class 'Vtiger_Action_Controller' not found in /home/crm4b519/public_html/modules/Vtiger/actions/Mass.php on line 11
+[27-Apr-2014 09:55:07] PHP Fatal error:  Class 'Vtiger_Action_Controller' not found in /home/crm4b519/public_html/modules/Vtiger/actions/Save.php on line 11
+[27-Apr-2014 09:55:07] PHP Fatal error:  Class 'Vtiger_Save_Action' not found in /home/crm4b519/public_html/modules/Vtiger/actions/SaveAjax.php on line 11
+[27-Apr-2014 09:55:07] PHP Fatal error:  Class 'Vtiger_IndexAjax_View' not found in /home/crm4b519/public_html/modules/Vtiger/actions/GetData.php on line 11
+[27-Apr-2014 09:55:07] PHP Fatal error:  Class 'Vtiger_Action_Controller' not found in /home/crm4b519/public_html/modules/Vtiger/actions/NoteBook.php on line 11
+[27-Apr-2014 09:55:07] PHP Fatal error:  Class 'Vtiger_Mass_Action' not found in /home/crm4b519/public_html/modules/Vtiger/actions/MassSave.php on line 11
+[27-Apr-2014 09:55:07] PHP Fatal error:  Class 'Vtiger_Action_Controller' not found in /home/crm4b519/public_html/modules/Vtiger/actions/TagCloud.php on line 11
+[27-Apr-2014 09:55:07] PHP Fatal error:  Class 'Vtiger_Action_Controller' not found in /home/crm4b519/public_html/modules/Vtiger/actions/BasicAjax.php on line 11
+[27-Apr-2014 09:55:07] PHP Fatal error:  Class 'Vtiger_Delete_Action' not found in /home/crm4b519/public_html/modules/Vtiger/actions/DeleteAjax.php on line 11
+[27-Apr-2014 09:55:07] PHP Fatal error:  Class 'Vtiger_Mass_Action' not found in /home/crm4b519/public_html/modules/Vtiger/actions/ExportData.php on line 11
+[27-Apr-2014 09:55:07] PHP Fatal error:  Class 'Vtiger_Mass_Action' not found in /home/crm4b519/public_html/modules/Vtiger/actions/MassDelete.php on line 11
+[27-Apr-2014 09:55:07] PHP Fatal error:  Class 'Vtiger_Action_Controller' not found in /home/crm4b519/public_html/modules/Vtiger/actions/DeleteImage.php on line 11
+[27-Apr-2014 09:55:07] PHP Fatal error:  Class 'Vtiger_Action_Controller' not found in /home/crm4b519/public_html/modules/Vtiger/actions/RelationAjax.php on line 11
+[27-Apr-2014 09:55:07] PHP Fatal error:  Class 'Vtiger_IndexAjax_View' not found in /home/crm4b519/public_html/modules/Vtiger/actions/RemoveWidget.php on line 11
+[27-Apr-2014 09:55:07] PHP Fatal error:  Class 'Vtiger_Action_Controller' not found in /home/crm4b519/public_html/modules/Vtiger/actions/ProcessDuplicates.php on line 11
+[27-Apr-2014 09:55:07] PHP Fatal error:  Class 'Vtiger_IndexAjax_View' not found in /home/crm4b519/public_html/modules/Vtiger/actions/SaveWidgetPositions.php on line 11

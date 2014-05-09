@@ -1,0 +1,2 @@
+[27-Apr-2014 09:55:11] PHP Fatal error:  Class 'Vtiger_Detail_View' not found in /home/crm4b519/public_html/modules/Accounts/views/Detail.php on line 12
+[27-Apr-2014 09:55:11] PHP Fatal error:  Class 'Vtiger_View_Controller' not found in /home/crm4b519/public_html/modules/Accounts/views/AccountHierarchy.php on line 11

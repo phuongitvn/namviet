@@ -1,0 +1,6 @@
+[27-Apr-2014 09:55:11] PHP Fatal error:  Class 'Vtiger_Edit_View' not found in /home/crm4b519/public_html/modules/Documents/views/Edit.php on line 11
+[27-Apr-2014 09:55:11] PHP Fatal error:  Class 'Vtiger_List_View' not found in /home/crm4b519/public_html/modules/Documents/views/List.php on line 11
+[27-Apr-2014 09:55:11] PHP Fatal error:  Class 'Vtiger_Detail_View' not found in /home/crm4b519/public_html/modules/Documents/views/Detail.php on line 11
+[27-Apr-2014 09:55:11] PHP Fatal error:  Class 'Documents_List_View' not found in /home/crm4b519/public_html/modules/Documents/views/ListAjax.php on line 11
+[27-Apr-2014 09:55:11] PHP Fatal error:  Class 'Vtiger_IndexAjax_View' not found in /home/crm4b519/public_html/modules/Documents/views/AddFolder.php on line 11
+[27-Apr-2014 09:55:11] PHP Fatal error:  Class 'Vtiger_Index_View' not found in /home/crm4b519/public_html/modules/Documents/views/MoveDocuments.php on line 11

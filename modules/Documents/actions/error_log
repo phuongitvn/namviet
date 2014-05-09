@@ -1,0 +1,4 @@
+[27-Apr-2014 09:55:12] PHP Fatal error:  Class 'Vtiger_Action_Controller' not found in /home/crm4b519/public_html/modules/Documents/actions/Folder.php on line 11
+[27-Apr-2014 09:55:12] PHP Fatal error:  Class 'Vtiger_Action_Controller' not found in /home/crm4b519/public_html/modules/Documents/actions/DownloadFile.php on line 11
+[27-Apr-2014 09:55:12] PHP Fatal error:  Class 'Vtiger_Mass_Action' not found in /home/crm4b519/public_html/modules/Documents/actions/MoveDocuments.php on line 11
+[27-Apr-2014 09:55:12] PHP Fatal error:  Class 'Vtiger_Action_Controller' not found in /home/crm4b519/public_html/modules/Documents/actions/CheckFileIntegrity.php on line 11

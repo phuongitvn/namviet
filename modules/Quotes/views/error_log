@@ -1,0 +1,10 @@
+[27-Apr-2014 09:55:08] PHP Fatal error:  Class 'Inventory_Edit_View' not found in /home/crm4b519/public_html/modules/Quotes/views/Edit.php on line 11
+[27-Apr-2014 09:55:08] PHP Fatal error:  Class 'Inventory_List_View' not found in /home/crm4b519/public_html/modules/Quotes/views/List.php on line 11
+[27-Apr-2014 09:55:08] PHP Fatal error:  Class 'Inventory_Detail_View' not found in /home/crm4b519/public_html/modules/Quotes/views/Detail.php on line 11
+[27-Apr-2014 09:55:08] PHP Fatal error:  Class 'Inventory_SendEmail_View' not found in /home/crm4b519/public_html/modules/Quotes/views/SendEmail.php on line 11
+[27-Apr-2014 09:55:08] PHP Fatal error:  Class 'Inventory_ProductsPopup_View' not found in /home/crm4b519/public_html/modules/Quotes/views/ProductsPopup.php on line 11
+[27-Apr-2014 09:55:08] PHP Fatal error:  Class 'Inventory_SubProductsPopup_View' not found in /home/crm4b519/public_html/modules/Quotes/views/SubProductsPopup.php on line 11
+[27-Apr-2014 09:55:08] PHP Fatal error:  Class 'Inventory_ProductsPopupAjax_View' not found in /home/crm4b519/public_html/modules/Quotes/views/ProductsPopupAjax.php on line 11
+[27-Apr-2014 09:55:08] PHP Fatal error:  Class 'Inventory_ServicesPopup_View' not found in /home/crm4b519/public_html/modules/Quotes/views/ServicesPopup.php on line 11
+[27-Apr-2014 09:55:08] PHP Fatal error:  Class 'Inventory_ServicesPopupAjax_View' not found in /home/crm4b519/public_html/modules/Quotes/views/ServicesPopupAjax.php on line 11
+[27-Apr-2014 09:55:08] PHP Fatal error:  Class 'Inventory_SubProductsPopupAjax_View' not found in /home/crm4b519/public_html/modules/Quotes/views/SubProductsPopupAjax.php on line 11

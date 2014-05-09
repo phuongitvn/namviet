@@ -1,0 +1,2 @@
+[27-Apr-2014 09:55:15] PHP Fatal error:  Call to undefined function vimport() in /home/crm4b519/public_html/modules/MailManager/models/Message.php on line 10
+[27-Apr-2014 09:55:15] PHP Fatal error:  Class 'MailManager_Folder_Model' not found in /home/crm4b519/public_html/modules/MailManager/models/DraftFolder.php on line 11

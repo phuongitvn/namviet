@@ -1,0 +1,7 @@
+[27-Apr-2014 09:55:25] PHP Fatal error:  Class 'Settings_Vtiger_Index_Action' not found in /home/crm4b519/public_html/modules/Settings/MailConverter/actions/ScanNow.php on line 11
+[27-Apr-2014 09:55:25] PHP Fatal error:  Class 'Settings_Vtiger_Index_Action' not found in /home/crm4b519/public_html/modules/Settings/MailConverter/actions/SaveRule.php on line 11
+[27-Apr-2014 09:55:25] PHP Fatal error:  Class 'Settings_Vtiger_Index_Action' not found in /home/crm4b519/public_html/modules/Settings/MailConverter/actions/DeleteRule.php on line 11
+[27-Apr-2014 09:55:25] PHP Fatal error:  Class 'Settings_Vtiger_Index_Action' not found in /home/crm4b519/public_html/modules/Settings/MailConverter/actions/SaveMailBox.php on line 11
+[27-Apr-2014 09:55:25] PHP Fatal error:  Class 'Settings_Vtiger_Index_Action' not found in /home/crm4b519/public_html/modules/Settings/MailConverter/actions/DeleteMailBox.php on line 11
+[27-Apr-2014 09:55:25] PHP Fatal error:  Class 'Settings_Vtiger_Index_Action' not found in /home/crm4b519/public_html/modules/Settings/MailConverter/actions/UpdateSequence.php on line 11
+[27-Apr-2014 09:55:25] PHP Fatal error:  Class 'Settings_Vtiger_Index_Action' not found in /home/crm4b519/public_html/modules/Settings/MailConverter/actions/CheckMailBoxMaxLimit.php on line 11

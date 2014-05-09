@@ -1,0 +1,1 @@
+[27-Apr-2014 09:55:24] PHP Fatal error:  Class 'Settings_Vtiger_IndexAjax_View' not found in /home/crm4b519/public_html/modules/Settings/SMSNotifier/views/Edit.php on line 11

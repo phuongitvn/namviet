@@ -1,0 +1,2 @@
+[27-Apr-2014 09:55:02] PHP Fatal error:  Class 'Vtiger_Base_Model' not found in /home/crm4b519/public_html/modules/Home/models/Widget.php on line 11
+[27-Apr-2014 09:55:02] PHP Fatal error:  Class 'Vtiger_Module_Model' not found in /home/crm4b519/public_html/modules/Home/models/Module.php on line 11

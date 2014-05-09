@@ -1,0 +1,6 @@
+[27-Apr-2014 09:55:12] PHP Fatal error:  Class 'Products_Edit_View' not found in /home/crm4b519/public_html/modules/Services/views/Edit.php on line 11
+[27-Apr-2014 09:55:12] PHP Fatal error:  Class 'Products_Detail_View' not found in /home/crm4b519/public_html/modules/Services/views/Detail.php on line 12
+[27-Apr-2014 09:55:12] PHP Fatal error:  Class 'Products_QuickCreateAjax_View' not found in /home/crm4b519/public_html/modules/Services/views/QuickCreateAjax.php on line 11
+[27-Apr-2014 09:55:12] PHP Fatal error:  Class 'Products_PriceBookProductPopup_View' not found in /home/crm4b519/public_html/modules/Services/views/PriceBookProductPopup.php on line 11
+[27-Apr-2014 09:55:12] PHP Fatal error:  Class 'Products_PriceBookProductPopupAjax_View' not found in /home/crm4b519/public_html/modules/Services/views/PriceBookProductPopupAjax.php on line 11
+[27-Apr-2014 09:55:12] PHP Fatal error:  Class 'Products_MoreCurrenciesList_View' not found in /home/crm4b519/public_html/modules/Services/views/MoreCurrenciesList.php on line 11

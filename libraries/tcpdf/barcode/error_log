@@ -1,0 +1,54 @@
+[27-Apr-2014 09:27:04] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '../../shared/barcode/barcode.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/crm4b519/public_html/libraries/tcpdf/barcode/image.php on line 38
+[27-Apr-2014 09:27:04] PHP Fatal error:  Class 'BarcodeObject' not found in /home/crm4b519/public_html/libraries/tcpdf/barcode/c39object.php on line 49
+[27-Apr-2014 09:27:04] PHP Fatal error:  Class 'BarcodeObject' not found in /home/crm4b519/public_html/libraries/tcpdf/barcode/i25object.php on line 48
+[27-Apr-2014 09:27:04] PHP Fatal error:  Class 'BarcodeObject' not found in /home/crm4b519/public_html/libraries/tcpdf/barcode/c128bobject.php on line 47
+[27-Apr-2014 09:27:04] PHP Fatal error:  Class 'BarcodeObject' not found in /home/crm4b519/public_html/libraries/tcpdf/barcode/c128aobject.php on line 48
+[27-Apr-2014 09:27:04] PHP Fatal error:  Class 'BarcodeObject' not found in /home/crm4b519/public_html/libraries/tcpdf/barcode/c128cobject.php on line 49
+[27-Apr-2014 09:35:45] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '../../shared/barcode/barcode.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/crm4b519/public_html/libraries/tcpdf/barcode/image.php on line 38
+[27-Apr-2014 09:35:45] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '../../shared/barcode/barcode.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/crm4b519/public_html/libraries/tcpdf/barcode/image.php on line 38
+[27-Apr-2014 09:35:45] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '../../shared/barcode/barcode.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/crm4b519/public_html/libraries/tcpdf/barcode/image.php on line 38
+[27-Apr-2014 09:35:46] PHP Fatal error:  Class 'BarcodeObject' not found in /home/crm4b519/public_html/libraries/tcpdf/barcode/c39object.php on line 49
+[27-Apr-2014 09:35:46] PHP Fatal error:  Class 'BarcodeObject' not found in /home/crm4b519/public_html/libraries/tcpdf/barcode/c39object.php on line 49
+[27-Apr-2014 09:35:46] PHP Fatal error:  Class 'BarcodeObject' not found in /home/crm4b519/public_html/libraries/tcpdf/barcode/c39object.php on line 49
+[27-Apr-2014 09:35:46] PHP Fatal error:  Class 'BarcodeObject' not found in /home/crm4b519/public_html/libraries/tcpdf/barcode/i25object.php on line 48
+[27-Apr-2014 09:35:46] PHP Fatal error:  Class 'BarcodeObject' not found in /home/crm4b519/public_html/libraries/tcpdf/barcode/c128aobject.php on line 48
+[27-Apr-2014 09:35:46] PHP Fatal error:  Class 'BarcodeObject' not found in /home/crm4b519/public_html/libraries/tcpdf/barcode/i25object.php on line 48
+[27-Apr-2014 09:35:46] PHP Fatal error:  Class 'BarcodeObject' not found in /home/crm4b519/public_html/libraries/tcpdf/barcode/i25object.php on line 48
+[27-Apr-2014 09:35:47] PHP Fatal error:  Class 'BarcodeObject' not found in /home/crm4b519/public_html/libraries/tcpdf/barcode/c128aobject.php on line 48
+[27-Apr-2014 09:35:47] PHP Fatal error:  Class 'BarcodeObject' not found in /home/crm4b519/public_html/libraries/tcpdf/barcode/c128aobject.php on line 48
+[27-Apr-2014 09:35:47] PHP Fatal error:  Class 'BarcodeObject' not found in /home/crm4b519/public_html/libraries/tcpdf/barcode/c128bobject.php on line 47
+[27-Apr-2014 09:35:47] PHP Fatal error:  Class 'BarcodeObject' not found in /home/crm4b519/public_html/libraries/tcpdf/barcode/c128bobject.php on line 47
+[27-Apr-2014 09:35:47] PHP Fatal error:  Class 'BarcodeObject' not found in /home/crm4b519/public_html/libraries/tcpdf/barcode/c128cobject.php on line 49
+[27-Apr-2014 09:35:47] PHP Fatal error:  Class 'BarcodeObject' not found in /home/crm4b519/public_html/libraries/tcpdf/barcode/c128bobject.php on line 47
+[27-Apr-2014 09:35:47] PHP Fatal error:  Class 'BarcodeObject' not found in /home/crm4b519/public_html/libraries/tcpdf/barcode/c128cobject.php on line 49
+[27-Apr-2014 09:35:47] PHP Fatal error:  Class 'BarcodeObject' not found in /home/crm4b519/public_html/libraries/tcpdf/barcode/c128cobject.php on line 49
+[27-Apr-2014 09:53:36] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '../../shared/barcode/barcode.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/crm4b519/public_html/libraries/tcpdf/barcode/image.php on line 38
+[27-Apr-2014 09:53:36] PHP Fatal error:  Class 'BarcodeObject' not found in /home/crm4b519/public_html/libraries/tcpdf/barcode/c39object.php on line 49
+[27-Apr-2014 09:53:37] PHP Fatal error:  Class 'BarcodeObject' not found in /home/crm4b519/public_html/libraries/tcpdf/barcode/i25object.php on line 48
+[27-Apr-2014 09:53:37] PHP Fatal error:  Class 'BarcodeObject' not found in /home/crm4b519/public_html/libraries/tcpdf/barcode/c128aobject.php on line 48
+[27-Apr-2014 09:53:37] PHP Fatal error:  Class 'BarcodeObject' not found in /home/crm4b519/public_html/libraries/tcpdf/barcode/c128bobject.php on line 47
+[27-Apr-2014 09:53:37] PHP Fatal error:  Class 'BarcodeObject' not found in /home/crm4b519/public_html/libraries/tcpdf/barcode/c128cobject.php on line 49
+[27-Apr-2014 10:00:01] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '../../shared/barcode/barcode.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/crm4b519/public_html/libraries/tcpdf/barcode/image.php on line 38
+[27-Apr-2014 10:00:01] PHP Fatal error:  Class 'BarcodeObject' not found in /home/crm4b519/public_html/libraries/tcpdf/barcode/c39object.php on line 49
+[27-Apr-2014 10:00:01] PHP Fatal error:  Class 'BarcodeObject' not found in /home/crm4b519/public_html/libraries/tcpdf/barcode/i25object.php on line 48
+[27-Apr-2014 10:00:01] PHP Fatal error:  Class 'BarcodeObject' not found in /home/crm4b519/public_html/libraries/tcpdf/barcode/c128aobject.php on line 48
+[27-Apr-2014 10:00:01] PHP Fatal error:  Class 'BarcodeObject' not found in /home/crm4b519/public_html/libraries/tcpdf/barcode/c128bobject.php on line 47
+[27-Apr-2014 10:00:01] PHP Fatal error:  Class 'BarcodeObject' not found in /home/crm4b519/public_html/libraries/tcpdf/barcode/c128cobject.php on line 49
+[27-Apr-2014 10:07:16] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '../../shared/barcode/barcode.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/crm4b519/public_html/libraries/tcpdf/barcode/image.php on line 38
+[27-Apr-2014 10:07:17] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '../../shared/barcode/barcode.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/crm4b519/public_html/libraries/tcpdf/barcode/image.php on line 38
+[27-Apr-2014 10:07:17] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '../../shared/barcode/barcode.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/crm4b519/public_html/libraries/tcpdf/barcode/image.php on line 38
+[27-Apr-2014 10:07:17] PHP Fatal error:  Class 'BarcodeObject' not found in /home/crm4b519/public_html/libraries/tcpdf/barcode/c39object.php on line 49
+[27-Apr-2014 10:07:17] PHP Fatal error:  Class 'BarcodeObject' not found in /home/crm4b519/public_html/libraries/tcpdf/barcode/c39object.php on line 49
+[27-Apr-2014 10:07:17] PHP Fatal error:  Class 'BarcodeObject' not found in /home/crm4b519/public_html/libraries/tcpdf/barcode/i25object.php on line 48
+[27-Apr-2014 10:07:17] PHP Fatal error:  Class 'BarcodeObject' not found in /home/crm4b519/public_html/libraries/tcpdf/barcode/c39object.php on line 49
+[27-Apr-2014 10:07:17] PHP Fatal error:  Class 'BarcodeObject' not found in /home/crm4b519/public_html/libraries/tcpdf/barcode/c128aobject.php on line 48
+[27-Apr-2014 10:07:17] PHP Fatal error:  Class 'BarcodeObject' not found in /home/crm4b519/public_html/libraries/tcpdf/barcode/c128bobject.php on line 47
+[27-Apr-2014 10:07:17] PHP Fatal error:  Class 'BarcodeObject' not found in /home/crm4b519/public_html/libraries/tcpdf/barcode/i25object.php on line 48
+[27-Apr-2014 10:07:17] PHP Fatal error:  Class 'BarcodeObject' not found in /home/crm4b519/public_html/libraries/tcpdf/barcode/c128aobject.php on line 48
+[27-Apr-2014 10:07:17] PHP Fatal error:  Class 'BarcodeObject' not found in /home/crm4b519/public_html/libraries/tcpdf/barcode/c128bobject.php on line 47
+[27-Apr-2014 10:07:17] PHP Fatal error:  Class 'BarcodeObject' not found in /home/crm4b519/public_html/libraries/tcpdf/barcode/c128cobject.php on line 49
+[27-Apr-2014 10:07:17] PHP Fatal error:  Class 'BarcodeObject' not found in /home/crm4b519/public_html/libraries/tcpdf/barcode/c128aobject.php on line 48
+[27-Apr-2014 10:07:17] PHP Fatal error:  Class 'BarcodeObject' not found in /home/crm4b519/public_html/libraries/tcpdf/barcode/i25object.php on line 48
+[27-Apr-2014 10:07:17] PHP Fatal error:  Class 'BarcodeObject' not found in /home/crm4b519/public_html/libraries/tcpdf/barcode/c128bobject.php on line 47
+[27-Apr-2014 10:07:17] PHP Fatal error:  Class 'BarcodeObject' not found in /home/crm4b519/public_html/libraries/tcpdf/barcode/c128cobject.php on line 49
+[27-Apr-2014 10:07:17] PHP Fatal error:  Class 'BarcodeObject' not found in /home/crm4b519/public_html/libraries/tcpdf/barcode/c128cobject.php on line 49

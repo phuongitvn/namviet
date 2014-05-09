@@ -1,0 +1,6 @@
+[27-Apr-2014 09:55:11] PHP Fatal error:  Class 'Products_Module_Model' not found in /home/crm4b519/public_html/modules/Services/models/Module.php on line 11
+[27-Apr-2014 09:55:11] PHP Fatal error:  Class 'Products_Record_Model' not found in /home/crm4b519/public_html/modules/Services/models/Record.php on line 11
+[27-Apr-2014 09:55:11] PHP Fatal error:  Class 'Products_ListView_Model' not found in /home/crm4b519/public_html/modules/Services/models/ListView.php on line 11
+[27-Apr-2014 09:55:11] PHP Fatal error:  Class 'Products_Relation_Model' not found in /home/crm4b519/public_html/modules/Services/models/Relation.php on line 11
+[27-Apr-2014 09:55:12] PHP Fatal error:  Class 'Products_DetailView_Model' not found in /home/crm4b519/public_html/modules/Services/models/DetailView.php on line 11
+[27-Apr-2014 09:55:12] PHP Fatal error:  Class 'Products_MassEditRecordStructure_Model' not found in /home/crm4b519/public_html/modules/Services/models/MassEditRecordStructure.php on line 15

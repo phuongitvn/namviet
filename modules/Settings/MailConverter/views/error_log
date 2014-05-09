@@ -1,0 +1,6 @@
+[27-Apr-2014 09:55:25] PHP Fatal error:  Class 'Settings_Vtiger_IndexAjax_View' not found in /home/crm4b519/public_html/modules/Settings/MailConverter/views/Edit.php on line 11
+[27-Apr-2014 09:55:25] PHP Fatal error:  Class 'Settings_Vtiger_Index_View' not found in /home/crm4b519/public_html/modules/Settings/MailConverter/views/List.php on line 11
+[27-Apr-2014 09:55:25] PHP Fatal error:  Class 'Settings_Vtiger_IndexAjax_View' not found in /home/crm4b519/public_html/modules/Settings/MailConverter/views/RuleAjax.php on line 11
+[27-Apr-2014 09:55:25] PHP Fatal error:  Class 'Settings_Vtiger_IndexAjax_View' not found in /home/crm4b519/public_html/modules/Settings/MailConverter/views/EditRule.php on line 11
+[27-Apr-2014 09:55:25] PHP Fatal error:  Class 'Settings_Vtiger_IndexAjax_View' not found in /home/crm4b519/public_html/modules/Settings/MailConverter/views/ListAjax.php on line 12
+[27-Apr-2014 09:55:25] PHP Fatal error:  Class 'Settings_Vtiger_Index_View' not found in /home/crm4b519/public_html/modules/Settings/MailConverter/views/RulesList.php on line 11

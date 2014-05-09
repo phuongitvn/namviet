@@ -1,0 +1,3 @@
+[27-Apr-2014 09:55:16] PHP Fatal error:  Class 'Vtiger_Index_View' not found in /home/crm4b519/public_html/modules/AnalyticsPlus/views/List.php on line 3
+[27-Apr-2014 09:55:16] PHP Fatal error:  Class 'Vtiger_Index_View' not found in /home/crm4b519/public_html/modules/AnalyticsPlus/views/Reports.php on line 2
+[27-Apr-2014 09:55:16] PHP Fatal error:  Class 'Vtiger_Index_View' not found in /home/crm4b519/public_html/modules/AnalyticsPlus/views/DataJson.php on line 2

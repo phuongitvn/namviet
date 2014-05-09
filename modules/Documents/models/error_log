@@ -1,0 +1,7 @@
+[27-Apr-2014 09:55:12] PHP Fatal error:  Class 'Vtiger_DetailView_Model' not found in /home/crm4b519/public_html/modules/Documents/models/DetailView.php on line 11
+[27-Apr-2014 09:55:12] PHP Fatal error:  Class 'Vtiger_Module_Model' not found in /home/crm4b519/public_html/modules/Documents/models/Module.php on line 11
+[27-Apr-2014 09:55:12] PHP Fatal error:  Class 'Vtiger_Field_Model' not found in /home/crm4b519/public_html/modules/Documents/models/Field.php on line 11
+[27-Apr-2014 09:55:12] PHP Fatal error:  Class 'Vtiger_Record_Model' not found in /home/crm4b519/public_html/modules/Documents/models/Record.php on line 11
+[27-Apr-2014 09:55:12] PHP Fatal error:  Class 'Vtiger_Base_Model' not found in /home/crm4b519/public_html/modules/Documents/models/Folder.php on line 11
+[27-Apr-2014 09:55:12] PHP Fatal error:  Class 'Vtiger_ListView_Model' not found in /home/crm4b519/public_html/modules/Documents/models/ListView.php on line 11
+[27-Apr-2014 09:55:12] PHP Fatal error:  Class 'Vtiger_EditRecordStructure_Model' not found in /home/crm4b519/public_html/modules/Documents/models/EditRecordStructure.php on line 11

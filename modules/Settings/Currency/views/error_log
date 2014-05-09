@@ -1,0 +1,2 @@
+[27-Apr-2014 09:55:23] PHP Fatal error:  Class 'Settings_Vtiger_IndexAjax_View' not found in /home/crm4b519/public_html/modules/Settings/Currency/views/EditAjax.php on line 12
+[27-Apr-2014 09:55:23] PHP Fatal error:  Class 'Settings_Vtiger_IndexAjax_View' not found in /home/crm4b519/public_html/modules/Settings/Currency/views/TransformEditAjax.php on line 12

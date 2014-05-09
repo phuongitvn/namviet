@@ -1,0 +1,3 @@
+[27-Apr-2014 09:55:14] PHP Fatal error:  Class 'Vtiger_Popup_View' not found in /home/crm4b519/public_html/modules/PriceBooks/views/Popup.php on line 11
+[27-Apr-2014 09:55:14] PHP Fatal error:  Class 'Vtiger_View_Controller' not found in /home/crm4b519/public_html/modules/PriceBooks/views/ListPriceUpdate.php on line 11
+[27-Apr-2014 09:55:14] PHP Fatal error:  Class 'Vtiger_Detail_View' not found in /home/crm4b519/public_html/modules/PriceBooks/views/Detail.php on line 11

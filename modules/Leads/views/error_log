@@ -1,0 +1,5 @@
+[27-Apr-2014 09:55:02] PHP Fatal error:  Class 'Vtiger_Edit_View' not found in /home/crm4b519/public_html/modules/Leads/views/Edit.php on line 12
+[27-Apr-2014 09:55:02] PHP Fatal error:  Class 'Accounts_Detail_View' not found in /home/crm4b519/public_html/modules/Leads/views/Detail.php on line 12
+[27-Apr-2014 09:55:02] PHP Fatal error:  Class 'Vtiger_Index_View' not found in /home/crm4b519/public_html/modules/Leads/views/ConvertLead.php on line 11
+[27-Apr-2014 09:55:02] PHP Fatal error:  Class 'Contacts_QuickCreateAjax_View' not found in /home/crm4b519/public_html/modules/Leads/views/QuickCreateAjax.php on line 10
+[27-Apr-2014 09:55:02] PHP Fatal error:  Call to undefined function vimport() in /home/crm4b519/public_html/modules/Leads/views/SaveConvertLead.php on line 10

@@ -1,0 +1,2 @@
+[27-Apr-2014 09:55:12] PHP Fatal error:  Class 'Vtiger_RelatedList_View' not found in /home/crm4b519/public_html/modules/Campaigns/views/RelatedList.php on line 11
+[27-Apr-2014 09:55:12] PHP Fatal error:  Class 'Vtiger_Detail_View' not found in /home/crm4b519/public_html/modules/Campaigns/views/Detail.php on line 11

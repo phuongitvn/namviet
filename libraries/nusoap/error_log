@@ -1,0 +1,93 @@
+[27-Apr-2014 09:26:24] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'include/logging.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/crm4b519/public_html/libraries/nusoap/nusoap.php on line 3
+[27-Apr-2014 09:26:24] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.wsdl.php on line 13
+[27-Apr-2014 09:26:24] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.soap_fault.php on line 14
+[27-Apr-2014 09:26:24] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'Mail/mimeDecode.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/crm4b519/public_html/libraries/nusoap/nusoapmime.php on line 36
+[27-Apr-2014 09:26:24] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.soap_parser.php on line 14
+[27-Apr-2014 09:26:24] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.soap_val.php on line 17
+[27-Apr-2014 09:26:24] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.soap_server.php on line 17
+[27-Apr-2014 09:26:24] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.xmlschema.php on line 17
+[27-Apr-2014 09:26:24] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.soapclient.php on line 25
+[27-Apr-2014 09:26:24] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.soap_transport_http.php on line 14
+[27-Apr-2014 09:33:24] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'include/logging.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/crm4b519/public_html/libraries/nusoap/nusoap.php on line 3
+[27-Apr-2014 09:33:24] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.wsdl.php on line 13
+[27-Apr-2014 09:33:24] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.wsdl.php on line 13
+[27-Apr-2014 09:33:24] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'include/logging.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/crm4b519/public_html/libraries/nusoap/nusoap.php on line 3
+[27-Apr-2014 09:33:25] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.wsdl.php on line 13
+[27-Apr-2014 09:33:25] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.soap_fault.php on line 14
+[27-Apr-2014 09:33:25] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'Mail/mimeDecode.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/crm4b519/public_html/libraries/nusoap/nusoapmime.php on line 36
+[27-Apr-2014 09:33:25] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'include/logging.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/crm4b519/public_html/libraries/nusoap/nusoap.php on line 3
+[27-Apr-2014 09:33:25] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.soap_fault.php on line 14
+[27-Apr-2014 09:33:25] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'Mail/mimeDecode.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/crm4b519/public_html/libraries/nusoap/nusoapmime.php on line 36
+[27-Apr-2014 09:33:25] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'Mail/mimeDecode.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/crm4b519/public_html/libraries/nusoap/nusoapmime.php on line 36
+[27-Apr-2014 09:33:25] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.soap_fault.php on line 14
+[27-Apr-2014 09:33:25] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.soap_parser.php on line 14
+[27-Apr-2014 09:33:25] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.soap_server.php on line 17
+[27-Apr-2014 09:33:26] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.soap_server.php on line 17
+[27-Apr-2014 09:33:26] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.soap_parser.php on line 14
+[27-Apr-2014 09:33:26] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.soap_parser.php on line 14
+[27-Apr-2014 09:33:26] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.soap_server.php on line 17
+[27-Apr-2014 09:33:26] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.soap_val.php on line 17
+[27-Apr-2014 09:33:26] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.xmlschema.php on line 17
+[27-Apr-2014 09:33:26] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.soap_val.php on line 17
+[27-Apr-2014 09:33:26] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.xmlschema.php on line 17
+[27-Apr-2014 09:33:26] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.xmlschema.php on line 17
+[27-Apr-2014 09:33:26] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.soap_val.php on line 17
+[27-Apr-2014 09:33:26] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.soapclient.php on line 25
+[27-Apr-2014 09:33:26] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.soap_transport_http.php on line 14
+[27-Apr-2014 09:33:26] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.soapclient.php on line 25
+[27-Apr-2014 09:33:27] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.soap_transport_http.php on line 14
+[27-Apr-2014 09:33:27] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.soapclient.php on line 25
+[27-Apr-2014 09:33:27] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.soap_transport_http.php on line 14
+[27-Apr-2014 09:53:18] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'include/logging.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/crm4b519/public_html/libraries/nusoap/nusoap.php on line 3
+[27-Apr-2014 09:53:18] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.wsdl.php on line 13
+[27-Apr-2014 09:53:18] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.soap_fault.php on line 14
+[27-Apr-2014 09:53:19] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'Mail/mimeDecode.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/crm4b519/public_html/libraries/nusoap/nusoapmime.php on line 36
+[27-Apr-2014 09:53:19] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.soap_parser.php on line 14
+[27-Apr-2014 09:53:19] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.soap_server.php on line 17
+[27-Apr-2014 09:53:19] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.soap_val.php on line 17
+[27-Apr-2014 09:53:19] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.xmlschema.php on line 17
+[27-Apr-2014 09:53:19] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.soapclient.php on line 25
+[27-Apr-2014 09:53:19] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.soap_transport_http.php on line 14
+[27-Apr-2014 09:53:20] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.xmlschema.php on line 17
+[27-Apr-2014 09:53:20] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.xmlschema.php on line 17
+[27-Apr-2014 09:53:20] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.xmlschema.php on line 17
+[27-Apr-2014 09:59:44] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.wsdl.php on line 13
+[27-Apr-2014 09:59:44] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'include/logging.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/crm4b519/public_html/libraries/nusoap/nusoap.php on line 3
+[27-Apr-2014 09:59:44] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.soap_fault.php on line 14
+[27-Apr-2014 09:59:44] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'Mail/mimeDecode.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/crm4b519/public_html/libraries/nusoap/nusoapmime.php on line 36
+[27-Apr-2014 09:59:44] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.soap_parser.php on line 14
+[27-Apr-2014 09:59:44] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.soap_server.php on line 17
+[27-Apr-2014 09:59:44] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.soap_val.php on line 17
+[27-Apr-2014 09:59:44] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.xmlschema.php on line 17
+[27-Apr-2014 09:59:44] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.soapclient.php on line 25
+[27-Apr-2014 09:59:44] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.soap_transport_http.php on line 14
+[27-Apr-2014 10:05:52] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'include/logging.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/crm4b519/public_html/libraries/nusoap/nusoap.php on line 3
+[27-Apr-2014 10:05:52] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.wsdl.php on line 13
+[27-Apr-2014 10:05:53] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.wsdl.php on line 13
+[27-Apr-2014 10:05:53] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'include/logging.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/crm4b519/public_html/libraries/nusoap/nusoap.php on line 3
+[27-Apr-2014 10:05:53] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.wsdl.php on line 13
+[27-Apr-2014 10:05:53] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'include/logging.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/crm4b519/public_html/libraries/nusoap/nusoap.php on line 3
+[27-Apr-2014 10:05:53] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.soap_fault.php on line 14
+[27-Apr-2014 10:05:53] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'Mail/mimeDecode.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/crm4b519/public_html/libraries/nusoap/nusoapmime.php on line 36
+[27-Apr-2014 10:05:53] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.soap_fault.php on line 14
+[27-Apr-2014 10:05:53] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'Mail/mimeDecode.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/crm4b519/public_html/libraries/nusoap/nusoapmime.php on line 36
+[27-Apr-2014 10:05:53] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.soap_fault.php on line 14
+[27-Apr-2014 10:05:53] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'Mail/mimeDecode.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/crm4b519/public_html/libraries/nusoap/nusoapmime.php on line 36
+[27-Apr-2014 10:05:54] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.soap_parser.php on line 14
+[27-Apr-2014 10:05:54] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.soap_server.php on line 17
+[27-Apr-2014 10:05:54] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.soap_val.php on line 17
+[27-Apr-2014 10:05:54] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.soap_parser.php on line 14
+[27-Apr-2014 10:05:54] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.soap_server.php on line 17
+[27-Apr-2014 10:05:54] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.soap_val.php on line 17
+[27-Apr-2014 10:05:54] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.soap_parser.php on line 14
+[27-Apr-2014 10:05:54] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.soap_server.php on line 17
+[27-Apr-2014 10:05:54] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.soap_val.php on line 17
+[27-Apr-2014 10:05:54] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.xmlschema.php on line 17
+[27-Apr-2014 10:05:54] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.xmlschema.php on line 17
+[27-Apr-2014 10:05:54] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.soapclient.php on line 25
+[27-Apr-2014 10:05:54] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.xmlschema.php on line 17
+[27-Apr-2014 10:05:54] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.soapclient.php on line 25
+[27-Apr-2014 10:05:54] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.soap_transport_http.php on line 14
+[27-Apr-2014 10:05:54] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.soapclient.php on line 25
+[27-Apr-2014 10:05:54] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.soap_transport_http.php on line 14
+[27-Apr-2014 10:05:55] PHP Fatal error:  Class 'nusoap_base' not found in /home/crm4b519/public_html/libraries/nusoap/class.soap_transport_http.php on line 14

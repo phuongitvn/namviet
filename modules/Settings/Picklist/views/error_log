@@ -1,0 +1,2 @@
+[27-Apr-2014 09:55:24] PHP Fatal error:  Class 'Settings_Vtiger_Index_View' not found in /home/crm4b519/public_html/modules/Settings/Picklist/views/Index.php on line 12
+[27-Apr-2014 09:55:24] PHP Fatal error:  Class 'Settings_Vtiger_IndexAjax_View' not found in /home/crm4b519/public_html/modules/Settings/Picklist/views/IndexAjax.php on line 12

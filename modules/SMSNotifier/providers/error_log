@@ -1,0 +1,2 @@
+[27-Apr-2014 09:55:14] PHP Fatal error:  Interface 'SMSNotifier_ISMSProvider_Model' not found in /home/crm4b519/public_html/modules/SMSNotifier/providers/MyProvider.php on line 11
+[27-Apr-2014 09:55:14] PHP Fatal error:  Interface 'SMSNotifier_ISMSProvider_Model' not found in /home/crm4b519/public_html/modules/SMSNotifier/providers/ClickATell.php on line 11

@@ -1,0 +1,3 @@
+[27-Apr-2014 09:55:22] PHP Fatal error:  Class 'Settings_Vtiger_Module_Model' not found in /home/crm4b519/public_html/modules/Settings/Groups/models/Module.php on line 14
+[27-Apr-2014 09:55:22] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'include/events/include.inc' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/crm4b519/public_html/modules/Settings/Groups/models/Record.php on line 11
+[27-Apr-2014 09:55:22] PHP Fatal error:  Class 'Vtiger_Base_Model' not found in /home/crm4b519/public_html/modules/Settings/Groups/models/Member.php on line 14

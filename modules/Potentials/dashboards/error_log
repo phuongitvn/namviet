@@ -1,0 +1,7 @@
+[27-Apr-2014 09:55:14] PHP Fatal error:  Class 'Vtiger_IndexAjax_View' not found in /home/crm4b519/public_html/modules/Potentials/dashboards/TotalRevenuePerSalesPerson.php on line 11
+[27-Apr-2014 09:55:14] PHP Fatal error:  Class 'Vtiger_IndexAjax_View' not found in /home/crm4b519/public_html/modules/Potentials/dashboards/PipelinedAmountPerSalesPerson.php on line 11
+[27-Apr-2014 09:55:14] PHP Fatal error:  Class 'Vtiger_IndexAjax_View' not found in /home/crm4b519/public_html/modules/Potentials/dashboards/FunnelAmount.php on line 11
+[27-Apr-2014 09:55:14] PHP Fatal error:  Class 'Vtiger_IndexAjax_View' not found in /home/crm4b519/public_html/modules/Potentials/dashboards/Forecast.php on line 11
+[27-Apr-2014 09:55:14] PHP Fatal error:  Class 'Vtiger_IndexAjax_View' not found in /home/crm4b519/public_html/modules/Potentials/dashboards/TopPotentials.php on line 11
+[27-Apr-2014 09:55:14] PHP Fatal error:  Class 'Vtiger_IndexAjax_View' not found in /home/crm4b519/public_html/modules/Potentials/dashboards/GroupedBySalesPerson.php on line 11
+[27-Apr-2014 09:55:14] PHP Fatal error:  Class 'Vtiger_IndexAjax_View' not found in /home/crm4b519/public_html/modules/Potentials/dashboards/GroupedBySalesStage.php on line 11

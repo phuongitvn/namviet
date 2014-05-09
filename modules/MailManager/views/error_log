@@ -1,0 +1,10 @@
+[27-Apr-2014 09:55:14] PHP Fatal error:  Class 'MailManager_Abstract_View' not found in /home/crm4b519/public_html/modules/MailManager/views/List.php on line 12
+[27-Apr-2014 09:55:14] PHP Fatal error:  Class 'MailManager_Abstract_View' not found in /home/crm4b519/public_html/modules/MailManager/views/Mail.php on line 17
+[27-Apr-2014 09:55:14] PHP Fatal error:  Class 'MailManager_List_View' not found in /home/crm4b519/public_html/modules/MailManager/views/Index.php on line 12
+[27-Apr-2014 09:55:14] PHP Fatal error:  Class 'MailManager_Abstract_View' not found in /home/crm4b519/public_html/modules/MailManager/views/Folder.php on line 13
+[27-Apr-2014 09:55:14] PHP Fatal error:  Class 'MailManager_Abstract_View' not found in /home/crm4b519/public_html/modules/MailManager/views/MainUI.php on line 14
+[27-Apr-2014 09:55:14] PHP Fatal error:  Class 'MailManager_Abstract_View' not found in /home/crm4b519/public_html/modules/MailManager/views/Draft.php on line 14
+[27-Apr-2014 09:55:15] PHP Fatal error:  Class 'MailManager_Relation_View' not found in /home/crm4b519/public_html/modules/MailManager/views/Search.php on line 14
+[27-Apr-2014 09:55:15] PHP Fatal error:  Call to undefined function vimport() in /home/crm4b519/public_html/modules/MailManager/views/Abstract.php on line 11
+[27-Apr-2014 09:55:15] PHP Fatal error:  Class 'MailManager_MainUI_View' not found in /home/crm4b519/public_html/modules/MailManager/views/Settings.php on line 14
+[27-Apr-2014 09:55:15] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'include/utils/utils.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/crm4b519/public_html/modules/MailManager/views/Relation.php on line 12

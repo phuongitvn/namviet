@@ -1,0 +1,2 @@
+[27-Apr-2014 09:55:22] PHP Fatal error:  Class 'Settings_Vtiger_Index_View' not found in /home/crm4b519/public_html/modules/Settings/Leads/views/MappingDetail.php on line 11
+[27-Apr-2014 09:55:22] PHP Fatal error:  Class 'Settings_Vtiger_Index_View' not found in /home/crm4b519/public_html/modules/Settings/Leads/views/MappingEdit.php on line 11

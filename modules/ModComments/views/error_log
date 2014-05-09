@@ -1,0 +1,4 @@
+[27-Apr-2014 09:55:14] PHP Fatal error:  Class 'Vtiger_List_View' not found in /home/crm4b519/public_html/modules/ModComments/views/List.php on line 11
+[27-Apr-2014 09:55:14] PHP Fatal error:  Class 'Vtiger_Edit_View' not found in /home/crm4b519/public_html/modules/ModComments/views/Edit.php on line 11
+[27-Apr-2014 09:55:14] PHP Fatal error:  Class 'Vtiger_Detail_View' not found in /home/crm4b519/public_html/modules/ModComments/views/Detail.php on line 11
+[27-Apr-2014 09:55:14] PHP Fatal error:  Class 'Vtiger_IndexAjax_View' not found in /home/crm4b519/public_html/modules/ModComments/views/DetailAjax.php on line 11

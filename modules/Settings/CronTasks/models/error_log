@@ -1,0 +1,2 @@
+[27-Apr-2014 09:55:24] PHP Fatal error:  Class 'Settings_Vtiger_Record_Model' not found in /home/crm4b519/public_html/modules/Settings/CronTasks/models/Record.php on line 11
+[27-Apr-2014 09:55:24] PHP Fatal error:  Class 'Settings_Vtiger_Module_Model' not found in /home/crm4b519/public_html/modules/Settings/CronTasks/models/Module.php on line 11

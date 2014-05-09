@@ -1,0 +1,4 @@
+[27-Apr-2014 09:55:25] PHP Fatal error:  Class 'Vtiger_Base_Model' not found in /home/crm4b519/public_html/modules/Settings/SharingAccess/models/Rule.php on line 14
+[27-Apr-2014 09:55:25] PHP Fatal error:  Class 'Vtiger_Module_Model' not found in /home/crm4b519/public_html/modules/Settings/SharingAccess/models/Module.php on line 14
+[27-Apr-2014 09:55:25] PHP Fatal error:  Class 'Vtiger_Base_Model' not found in /home/crm4b519/public_html/modules/Settings/SharingAccess/models/Action.php on line 14
+[27-Apr-2014 09:55:25] PHP Fatal error:  Class 'Vtiger_Base_Model' not found in /home/crm4b519/public_html/modules/Settings/SharingAccess/models/RuleMember.php on line 14

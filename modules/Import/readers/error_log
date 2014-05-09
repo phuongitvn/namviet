@@ -1,0 +1,4 @@
+[27-Apr-2014 09:55:09] PHP Fatal error:  Call to undefined function vimport() in /home/crm4b519/public_html/modules/Import/readers/ICSReader.php on line 11
+[27-Apr-2014 09:55:09] PHP Fatal error:  Class 'Import_FileReader_Reader' not found in /home/crm4b519/public_html/modules/Import/readers/XLSReader.php on line 12
+[27-Apr-2014 09:55:10] PHP Fatal error:  Class 'Import_FileReader_Reader' not found in /home/crm4b519/public_html/modules/Import/readers/CSVReader.php on line 11
+[27-Apr-2014 09:55:10] PHP Fatal error:  Class 'Import_FileReader_Reader' not found in /home/crm4b519/public_html/modules/Import/readers/VCardReader.php on line 11

@@ -25,6 +25,9 @@ function getProjects(qId)
 {
 	$.ajax({
 		url:'?module=Accounts&view=GetProject&q='+qId,
+		beforeSend: function(){
+			$("#pj").html('<img width="25" src="/layouts/vlayout/skins/images/loading.gif" />');
+		},
 		success: function(data){
 			$("#pj").html(data);
 		}

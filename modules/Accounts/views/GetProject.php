@@ -23,15 +23,3 @@ class Accounts_GetProject_View extends Vtiger_IndexAjax_View {
 		//exit();
 	}
 }
-/* class Contacts_QuickCreateAjax_View extends Vtiger_QuickCreateAjax_View {
-
-	public function process(Vtiger_Request $request) {
-		$viewer = $this->getViewer($request);
-
-		$moduleName = $request->getModule();
-		$moduleModel = Vtiger_Module_Model::getInstance($moduleName);
-		$salutationFieldModel = Vtiger_Field_Model::getInstance('salutationtype', $moduleModel);
-		$viewer->assign('SALUTATION_FIELD_MODEL', $salutationFieldModel);
-		parent::process($request);
-	}
-} */

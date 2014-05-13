@@ -59,7 +59,7 @@
                             <div class="btn-group cursorPointer">
                                 <img id="menubar_quickCreate" src="{vimage_path('btnAdd.png')}" class="alignMiddle" alt="{vtranslate('LBL_QUICK_CREATE',$MODULE)}" title="{vtranslate('LBL_QUICK_CREATE',$MODULE)}" data-toggle="dropdown" />
                                 <ul class="dropdown-menu dropdownStyles commonActionsButtonDropDown">
-                                    <li class="title"><strong>{vtranslate('Quick Create',$MODULE)}</strong></li><hr/>
+                                    <li style="padding-bottom:0;text-transform: uppercase;" class="title"><strong>{vtranslate('Quick Create',$MODULE)}</strong></li><hr/>
                                     <li id="quickCreateModules">
                                         <div class="row-fluid">
                                             <div class="span12">

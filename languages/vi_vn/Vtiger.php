@@ -51,6 +51,7 @@ $languageStrings = array(
     'LBL_MASS_EDITING' => 'Sửa đồng loạt',
 	'LBL_DESELECT_ALL_RECORDS' => 'Các bản ghi không được chọn',
 	'LBL_QUICK_CREATE' => 'Thêm nhanh',
+	'Quick Create'=>'Thêm nhanh',
 	'LBL_SEND_EMAIL' => 'Gửi email',
 	//SEND EMAIL translations
 	'LBL_ALL_EMAILS' => 'Tất cả địa chỉ email',

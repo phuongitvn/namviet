@@ -101,14 +101,16 @@ class Accounts_SaveAjax_Action extends Vtiger_Save_Action {
 					}
 					$recordModel->set($fieldName, $fieldValue);
 				}
-				//
-				if($fieldName=='phone'){
+				//get last 5 number phone
+				if($fieldName=='phone' || $fieldName=='cf_927' || $fieldName=='cf_931'){
 					$pos = strlen($fieldValue)-5;
-					$otherPhone = substr($fieldValue, $pos, 5);
+					$last5Number = substr($fieldValue, $pos, 5);
 				}
 			} 
 		}
-		$recordModel->set('otherphone', $otherPhone);
+		$recordModel->set('otherphone', $last5Number);
+		$recordModel->set('cf_929', $last5Number);
+		$recordModel->set('cf_933', $last5Number);
 		return $recordModel;
 	}
 }

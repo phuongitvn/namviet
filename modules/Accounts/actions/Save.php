@@ -93,14 +93,22 @@ class Accounts_Save_Action extends Vtiger_Action_Controller {
 				$recordModel->set($fieldName, $fieldValue);
 			}
 			//get last 5 number phone
-			if($fieldName=='phone' || $fieldName=='cf_927' || $fieldName=='cf_931'){
+			if($fieldName=='phone'){
 				$pos = strlen($fieldValue)-5;
-				$last5Number = substr($fieldValue, $pos, 5);
+				$last5Number_phone = substr($fieldValue, $pos, 5);
+			}
+			if($fieldName=='cf_927'){
+				$pos = strlen($fieldValue)-5;
+				$last5Number_cf_927 = substr($fieldValue, $pos, 5);
+			}
+			if($fieldName=='cf_931'){
+				$pos = strlen($fieldValue)-5;
+				$last5Number_cf_931 = substr($fieldValue, $pos, 5);
 			}
 		}
-		$recordModel->set('otherphone', $last5Number);
-		$recordModel->set('cf_929', $last5Number);
-		$recordModel->set('cf_933', $last5Number);
+		$recordModel->set('otherphone', $last5Number_phone);
+		$recordModel->set('cf_929', $last5Number_cf_927);
+		$recordModel->set('cf_933', $last5Number_cf_931);
 		return $recordModel;
 	}
 }
